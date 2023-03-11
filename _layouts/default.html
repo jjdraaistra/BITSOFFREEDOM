@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Meta tag -->
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <!-- Favicon & Title -->
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png" />
+		<link rel="shortcut icon" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}">
+        <title>{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}</title>
+		<meta name="description" content="{{ page.description | strip_html | xml_escape }}">
+
+        <!-- CSS only -->
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/bootstrap.min.css' | relative_url }}" />
+        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/aos.css' | relative_url }}" />
+        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/slick.css' | relative_url }}" />
+        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | relative_url }}" />
+        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/responsive.css' | relative_url }}" />
+    </head>
+    <body>
+        <div class="main-wrpper">
+
+            {% include left-panel.html %}
+
+            {% include right-panel.html %}
+
+            {% include header.html %}
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>

@@ -1,0 +1,34 @@
+<!-- Left Part -->
+<div class="left-part">
+	<div class="logo-bix">
+		{% if site.data.settings.header_settings.logo_image %}
+		<img src="{{ site.data.settings.header_settings.logo_image | relative_url }}"
+			alt="{{ site.data.settings.basic_settings.site_title }}">
+		{% endif %}
+		<a href="#" class="togglebar"> <img src="{{ '/assets/images/togglebar.svg' | relative_url }}"> </a>
+	</div>
+
+	<div class="info-block">
+		<ul>
+			<li>
+				<h2>2022</h2>
+			</li>
+			<li><a href="#" class="btn-main">About Bits of Freedom</a></li>
+			<li><a href="#" class="btn-main">Colophon</a></li>
+			<li>
+				<div class="lang-box">
+					<a href="#" class="btn-white">NL</a>
+					<a href="#" class="btn-dark">ENG</a>
+				</div>
+			</li>
+		</ul>
+	</div>
+
+	<div class="bottom-buttons">
+		<ul>
+			<li><a href="#" class="btn-dark">ANNUAL REPORT .PDF</a></li>
+			<li><a href="#" class="btn-white">financial statement .PDF</a></li>
+		</ul>
+	</div>
+</div>
+<!-- End Left Part -->

@@ -1,0 +1,550 @@
+@media(min-width:1801px) and (max-width:1900px){
+	.tab_contain{width: 906px;margin: 0 auto;}
+	.tab_contain.about_contain {width: 841px;}
+}
+@media(min-width:1601px) and (max-width:1800px){
+	.btn-main{font-size: 14px;}
+	.lang-box a{min-width: 65px;}
+	.bottom-buttons{padding: 0 15px 20px;}
+	.bottom-buttons ul li a{padding: 10px;font-size: 16px;}
+
+	.tabs_link{padding: 30px 15px;}
+	.tabs_link .tabs_heading{font-size: 20px;line-height: 30px;}
+	.foreword-block{padding: 0 15px;}
+	.tab_contain{width: 797px;margin: 0 auto;}
+	.foreword-block h2{font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.foreword-block p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.highlights-title h2{padding: 0 15px;font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.highlights-info{padding: 0 25px 35px;}
+	.highlights-info h3{font-size: 28px;margin: 0 0 20px;}
+	.highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.highlights-block .accordion .accordion-item .accordion-button{padding: 50px 35px 50px 15px;font-size: 20px;line-height: 30px;}
+	.highlights-block .accordion .accordion-item .accordion-button:before{right: 15px;font-size: 18px;}
+	.highlights-block .accordion .accordion-body .body-info{padding: 20px;}
+	.highlights-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.finances-table{padding: 0 25px;}
+	.finances-table table thead tr th{font-size: 16px;line-height: 24px;padding: 20px 5px;}
+	.finances-table table tbody tr td{padding: 20px 5px;font-size: 16px;line-height: 24px;}
+	.chart-block{padding: 0 15px;}
+
+	.plans-block .highlights-title h2{padding: 0 15px;font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.plans-block .highlights-info{padding: 0 25px 35px;}
+	.plans-block .highlights-info h3{font-size: 28px;margin: 0 0 20px;}
+	.plans-block .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	
+	.plans-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 35px 50px 15px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.plans-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.plans-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+	.plans-block .accordion .accordion-item .accordion-button span{font-size: 45px;margin-right: 15px;}
+
+	.about_contain .about-title{padding: 0 15px;}
+	.about_contain .about-title h2{font-size: 40px;margin: 0 0 30px;}
+	.tab_contain.about_contain{max-width: 733px;}
+	.about_contain img{margin: 0 0 58px;}
+	.about_contain .about-info{padding: 0 35px;}
+	.about_contain .about-info p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.highlights_tab_contain .highlights-title{padding: 0 15px;}
+	.highlights_tab_contain .highlights-title ul{justify-content: flex-start}
+	.highlights_tab_contain .highlights-title ul li a{padding: 15px 0 0;width:150px;font-size: 16px;padding: 10px 15px;}
+	.highlights_tab_contain .highlights-info{padding: 0 25px;}
+	.highlights_tab_contain .highlights-info .btn-dark{margin: 0 0 35px;}
+	.highlights_tab_contain .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+}
+@media(min-width:1401px) and (max-width:1600px){
+	.btn-main{font-size: 14px;}
+	.lang-box a{min-width: 65px;}
+	.bottom-buttons{padding: 0 15px 20px;}
+	.bottom-buttons ul li a{padding: 10px;font-size: 16px;}
+
+	.tabs_link{padding: 30px 15px;}
+	.tabs_link .tabs_heading{font-size: 20px;line-height: 30px;}
+	.foreword-block{padding: 0 15px;}
+	.tab_contain{width: 667px;margin: 0 auto;}
+	.foreword-block h2{font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.foreword-block p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.highlights-title h2{padding: 0 15px;font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.highlights-info{padding: 0 25px 35px;}
+	.highlights-info h3{font-size: 28px;margin: 0 0 20px;}
+	.highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.highlights-block .accordion .accordion-item .accordion-button{padding: 50px 35px 50px 15px;font-size: 20px;line-height: 30px;}
+	.highlights-block .accordion .accordion-item .accordion-button:before{right: 15px;font-size: 18px;}
+	.highlights-block .accordion .accordion-body .body-info{padding: 20px;}
+	.highlights-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.finances-table{padding: 0 25px;}
+	.finances-table table thead tr th{font-size: 16px;line-height: 24px;padding: 20px 5px;}
+	.finances-table table tbody tr td{padding: 20px 5px;font-size: 16px;line-height: 24px;}
+	.chart-block{padding: 0 15px;}
+
+	.plans-block .highlights-title h2{padding: 0 15px;font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.plans-block .highlights-info{padding: 0 25px 35px;}
+	.plans-block .highlights-info h3{font-size: 28px;margin: 0 0 20px;}
+	.plans-block .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	
+	.plans-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 35px 50px 15px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.plans-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.plans-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+	.plans-block .accordion .accordion-item .accordion-button span{font-size: 45px;margin-right: 15px;}
+
+	.about_contain .about-title{padding: 0 15px;}
+	.about_contain .about-title h2{font-size: 40px;margin: 0 0 30px;}
+	.tab_contain.about_contain{max-width: 606px;}
+	.about_contain img{margin: 0 0 58px;}
+	.about_contain .about-info{padding: 0 35px;}
+	.about_contain .about-info p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.highlights_tab_contain .highlights-title .row .col-md-6{width: 100%;}
+	.highlights_tab_contain .highlights-title{padding: 0 15px;}
+	.highlights_tab_contain .highlights-title ul{justify-content: flex-start}
+	.highlights_tab_contain .highlights-title ul li a{padding: 15px 0 0;width:150px;font-size: 16px;padding: 10px 15px;}
+	.highlights_tab_contain .highlights-info{padding: 0 25px;}
+	.highlights_tab_contain .highlights-info .btn-dark{margin: 0 0 35px;}
+	.highlights_tab_contain .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+}
+@media(min-width:1201px) and (max-width:1400px){
+	.btn-main{font-size: 14px;}
+	.lang-box a{min-width: 65px;}
+	.bottom-buttons{padding: 0 15px 20px;}
+	.bottom-buttons ul li a{padding: 10px;font-size: 16px;}
+
+	.tabs_link{padding: 30px 15px;}
+	.tabs_link .tabs_heading{font-size: 20px;line-height: 30px;}
+	.foreword-block{padding: 0 15px;}
+	.tab_contain{width: 537px;margin: 0 auto;}
+	.foreword-block h2{font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.foreword-block p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.highlights-title h2{padding: 0 15px;font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.highlights-info{padding: 0 25px 35px;}
+	.highlights-info h3{font-size: 28px;margin: 0 0 20px;}
+	.highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.highlights-block .accordion .accordion-item .accordion-button{padding: 50px 35px 50px 15px;font-size: 20px;line-height: 30px;}
+	.highlights-block .accordion .accordion-item .accordion-button:before{right: 15px;font-size: 18px;}
+	.highlights-block .accordion .accordion-body .body-info{padding: 20px;}
+	.highlights-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.finances-table{padding: 0 25px;}
+	.finances-table table thead tr th{font-size: 16px;line-height: 24px;padding: 20px 5px;}
+	.finances-table table tbody tr td{padding: 20px 5px;font-size: 16px;line-height: 24px;}
+	.chart-block{padding: 0 15px;}
+
+	.plans-block .highlights-title h2{padding: 0 15px;font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.plans-block .highlights-info{padding: 0 25px 35px;}
+	.plans-block .highlights-info h3{font-size: 28px;margin: 0 0 20px;}
+	.plans-block .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	
+	.plans-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 35px 50px 15px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.plans-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.plans-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+	.plans-block .accordion .accordion-item .accordion-button span{font-size: 45px;margin-right: 15px;}
+
+	.about_contain .about-title{padding: 0 15px;}
+	.about_contain .about-title h2{font-size: 40px;margin: 0 0 30px;}
+	.tab_contain.about_contain{max-width: 476px;}
+	.about_contain img{margin: 0 0 58px;}
+	.about_contain .about-info{padding: 0 35px;}
+	.about_contain .about-info p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.highlights_tab_contain .highlights-title .row .col-md-6{width: 100%;}
+	.highlights_tab_contain .highlights-title{padding: 0 15px;}
+	.highlights_tab_contain .highlights-title ul{justify-content: flex-start}
+	.highlights_tab_contain .highlights-title ul li a{padding: 15px 0 0;width:150px;font-size: 16px;padding: 10px 15px;}
+	.highlights_tab_contain .highlights-info{padding: 0 25px;}
+	.highlights_tab_contain .highlights-info .btn-dark{margin: 0 0 35px;}
+	.highlights_tab_contain .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+}
+
+@media(min-width:1025px) and (max-width:1200px){
+	.lang-box{height: auto;}
+	.info-block{margin-top: -62px}
+	.info-block ul li{margin: 0 0 10px;}
+	.info-block ul li:first-child{margin: 0;}
+	.info-block ul li a{font-size: 16px;padding: 15px 20px;}
+	.info-block ul li h2{font-size: 40px;line-height: 40px;border-radius: 40px 40px 0 0;text-align: center;}
+	.info-block{padding: 0 15px}
+	.info-block ul{display: block;}
+	.info-block:before{display: none;}
+	.info-block ul li:nth-child(3){background: transparent;}
+	.info-block ul li:nth-child(2){background: transparent;}
+	.info-block ul li{width: 100%;}
+	.logo-bix{height: 50vh;}
+	.bottom-buttons{padding: 0 15px 20px;}
+	.bottom-buttons ul{display: block;}
+	.bottom-buttons ul li{width: 100%;margin: 0 0 10px;}
+	.bottom-buttons ul li:last-child{margin: 0;}
+
+	.tabs_link{padding: 30px 15px;}
+	.tabs_link .tabs_heading{font-size: 20px;line-height: 30px;}
+	.foreword-block{padding: 0 15px;}
+	.tab_contain{width: 400px;margin: 0 auto;}
+	.foreword-block h2{font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.foreword-block p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.highlights-title h2{padding: 0 15px;font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.highlights-info{padding: 0 25px 35px;}
+	.highlights-info h3{font-size: 28px;margin: 0 0 20px;}
+	.highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.highlights-block .accordion .accordion-item .accordion-button{padding: 50px 35px 50px 15px;font-size: 20px;line-height: 30px;}
+	.highlights-block .accordion .accordion-item .accordion-button:before{right: 15px;font-size: 18px;}
+	.highlights-block .accordion .accordion-body .body-info{padding: 20px;}
+	.highlights-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.finances-table{padding: 0 25px;}
+	.finances-table table thead tr th{font-size: 16px;line-height: 24px;padding: 20px 5px;}
+	.finances-table table tbody tr td{padding: 20px 5px;font-size: 16px;line-height: 24px;}
+	.chart-block{padding: 0 15px;}
+
+	.plans-block .highlights-title h2{padding: 0 15px;font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.plans-block .highlights-info{padding: 0 25px 35px;}
+	.plans-block .highlights-info h3{font-size: 28px;margin: 0 0 20px;}
+	.plans-block .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	
+	.plans-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 35px 50px 15px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.plans-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.plans-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+	.plans-block .accordion .accordion-item .accordion-button span{font-size: 45px;margin-right: 15px;}
+
+	.about_contain .about-title{padding: 0 15px;}
+	.about_contain .about-title h2{font-size: 40px;margin: 0 0 30px;}
+	.tab_contain.about_contain{max-width: 340px;}
+	.about_contain img{margin: 0 0 58px;}
+	.about_contain .about-info{padding: 0 35px;}
+	.about_contain .about-info p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.highlights_tab_contain .highlights-title .row .col-md-6{width: 100%;}
+	.highlights_tab_contain .highlights-title{padding: 0 15px;}
+	.highlights_tab_contain .highlights-title ul{justify-content: flex-start}
+	.highlights_tab_contain .highlights-title ul li a{padding: 15px 0 0;width:150px;font-size: 16px;padding: 10px 15px;}
+	.highlights_tab_contain .highlights-info{padding: 0 25px;}
+	.highlights_tab_contain .highlights-info .btn-dark{margin: 0 0 35px;}
+	.highlights_tab_contain .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+}
+
+@media(min-width:992px) and (max-width:1024px){
+	.lang-box{height: auto;}
+	.info-block{margin-top: -62px}
+	.info-block ul li{margin: 0 0 10px;}
+	.info-block ul li:first-child{margin: 0;}
+	.info-block ul li a{font-size: 16px;padding: 15px 20px;}
+	.info-block ul li h2{font-size: 40px;line-height: 40px;border-radius: 40px 40px 0 0;text-align: center;}
+	.info-block{padding: 0 15px}
+	.info-block ul{display: block;}
+	.info-block:before{display: none;}
+	.info-block ul li:nth-child(3){background: transparent;}
+	.info-block ul li:nth-child(2){background: transparent;}
+	.info-block ul li{width: 100%;}
+	.logo-bix{height: 50vh;}
+	.bottom-buttons{padding: 0 15px 20px;}
+	.bottom-buttons ul{display: block;}
+	.bottom-buttons ul li{width: 100%;margin: 0 0 10px;}
+	.bottom-buttons ul li:last-child{margin: 0;}
+
+	.tabs_link{padding: 30px 15px;}
+	.tabs_link .tabs_heading{font-size: 20px;line-height: 30px;}
+	.foreword-block{padding: 0 15px;}
+	.tab_contain{width: 400px;margin: 0 auto;}
+	.foreword-block h2{font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.foreword-block p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.highlights-title h2{padding: 0 15px;font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.highlights-info{padding: 0 25px 35px;}
+	.highlights-info h3{font-size: 28px;margin: 0 0 20px;}
+	.highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.highlights-block .accordion .accordion-item .accordion-button{padding: 50px 35px 50px 15px;font-size: 20px;line-height: 30px;}
+	.highlights-block .accordion .accordion-item .accordion-button:before{right: 15px;font-size: 18px;}
+	.highlights-block .accordion .accordion-body .body-info{padding: 20px;}
+	.highlights-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	.finances-table{padding: 0 25px;}
+	.finances-table table thead tr th{font-size: 16px;line-height: 24px;padding: 20px 5px;}
+	.finances-table table tbody tr td{padding: 20px 5px;font-size: 16px;line-height: 24px;}
+	.chart-block{padding: 0 15px;}
+
+	.plans-block .highlights-title h2{padding: 0 15px;font-size: 30px;line-height: 40px;margin: 0 0 20px;}
+	.plans-block .highlights-info{padding: 0 25px 35px;}
+	.plans-block .highlights-info h3{font-size: 28px;margin: 0 0 20px;}
+	.plans-block .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
+
+	
+	.plans-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 35px 50px 15px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.plans-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.plans-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+	.plans-block .accordion .accordion-item .accordion-button span{font-size: 45px;margin-right: 15px;}
+
+	.about_contain .about-title{padding: 0 15px;}
+	.about_contain .about-title h2{font-size: 40px;margin: 0 0 30px;}
+	.tab_contain.about_contain{max-width: 340px;}
+	.about_contain img{margin: 0 0 58px;}
+	.about_contain .about-info{padding: 0 35px;}
+	.about_contain .about-info p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.highlights_tab_contain .highlights-title .row .col-md-6{width: 100%;}
+	.highlights_tab_contain .highlights-title{padding: 0 15px;}
+	.highlights_tab_contain .highlights-title ul{justify-content: flex-start}
+	.highlights_tab_contain .highlights-title ul li a{padding: 15px 0 0;width:150px;font-size: 16px;padding: 10px 15px;}
+	.highlights_tab_contain .highlights-info{padding: 0 25px;}
+	.highlights_tab_contain .highlights-info .btn-dark{margin: 0 0 35px;}
+	.highlights_tab_contain .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+}
+
+@media(min-width:768px) and (max-width:991px){
+	.main-wrpper{display: block;}
+	.left-part{width: 100%;height: auto;min-height: unset;}
+	.right-part{width: 100%;height: auto;min-height: unset;}
+	
+	.info-block{display: none;}
+	.bottom-buttons{display: none;}
+	
+	.logo-bix{height: auto;min-height: unset;padding: 10px 15px;}
+	.logo-bix img{max-width: 150px;margin: 0;}
+
+	.tabs{display: block;height: auto;overflow: initial;}
+	.tabs_link{box-shadow: -2px 0px 10px 3px rgba(0, 0, 0, 0.3);padding: 14px 15px;display: block;}
+	.tabs_link .tabs_heading{font-size: 23px;line-height: 26px;transform: unset;}
+	.tab_contain{width: 100%;height: auto;padding: 0}
+	.tabs_content{width: 100%;height: 0;padding: 0;}
+	.tabs_content.active{height: auto;}
+	
+	.foreword-block{padding: 0 25px;}
+	.foreword-block h2{font-size: 26px;line-height: 29px;margin: 0 0 50px;display: none;}
+	.foreword-block p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.about_contain .about-title{display: none;}
+	.tab_contain.about_contain{max-width: 100%;}
+	.about_contain img{margin: 0 0 58px;}
+	.about_contain .about-info{padding: 0 35px;}
+	.about_contain .about-info p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.highlights-title h2{display: none;}
+	.highlights-info{padding: 0 15px 100px;}
+	.highlights-info h3{font-size: 20px;line-height: 23px;margin: 0 0 10px;}
+	.highlights-info p{font-size: 15px;line-height: 24px;}
+
+	.highlights-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 15px;}
+	.highlights-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.highlights-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.highlights-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+
+	.finances-block .highlights-info p{margin: 0 0 30px;}
+	.finances-table{padding: 0 15px 50px;}
+	.finances-table table thead tr th{font-size: 16px;line-height: 24px;padding: 20px 5px;}
+	.finances-table table tbody tr td{padding: 20px 5px;font-size: 16px;line-height: 24px;}
+	.chart-block{padding: 0 15px;}
+
+	.plans-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 35px 50px 15px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.plans-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.plans-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+	.plans-block .accordion .accordion-item .accordion-button span{font-size: 45px;margin-right: 15px;}
+
+	.highlights_tab_contain .highlights-title{padding: 0 15px;margin: 0 0 30px;}
+	.highlights_tab_contain .highlights-title ul{justify-content: flex-start}
+	.highlights_tab_contain .highlights-title ul li a{padding: 15px 0 0;width:150px;font-size: 16px;padding: 10px 15px;}
+	.highlights_tab_contain .highlights-info{padding: 0 25px;}
+	.highlights_tab_contain .highlights-info .btn-dark{margin: 0 0 35px;}
+	.highlights_tab_contain .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+
+	.mobile-buttons{display: block;}
+	.togglebar{display: table;}
+}
+
+@media(min-width:576px) and (max-width:767px){
+	.main-wrpper{display: block;}
+	.left-part{width: 100%;height: auto;min-height: unset;}
+	.right-part{width: 100%;height: auto;min-height: unset;}
+	
+	.info-block{display: none;}
+	.bottom-buttons{display: none;}
+	
+	.logo-bix{height: auto;min-height: unset;padding: 10px 15px;}
+	.logo-bix img{max-width: 150px;margin: 0;}
+
+	.tabs{display: block;height: auto;overflow: initial;}
+	.tabs_link{box-shadow: -2px 0px 10px 3px rgba(0, 0, 0, 0.3);padding: 14px 15px;display: block;}
+	.tabs_link .tabs_heading{font-size: 23px;line-height: 26px;transform: unset;}
+	.tab_contain{width: 100%;height: auto;padding: 0}
+	.tabs_content{width: 100%;height: 0;padding: 0;}
+	.tabs_content.active{height: auto;}
+	
+	.foreword-block{padding: 0 25px;}
+	.foreword-block h2{font-size: 26px;line-height: 29px;margin: 0 0 50px;display: none;}
+	.foreword-block p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.about_contain .about-title{display: none;}
+	.tab_contain.about_contain{max-width: 100%;}
+	.about_contain img{margin: 0 0 58px;}
+	.about_contain .about-info{padding: 0 35px;}
+	.about_contain .about-info p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.highlights-title h2{display: none;}
+	.highlights-info{padding: 0 15px 100px;}
+	.highlights-info h3{font-size: 20px;line-height: 23px;margin: 0 0 10px;}
+	.highlights-info p{font-size: 15px;line-height: 24px;}
+
+	.highlights-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 15px;}
+	.highlights-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.highlights-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.highlights-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+
+	.finances-block .highlights-info p{margin: 0 0 30px;}
+	.finances-table{padding: 0 15px 50px;}
+	.finances-table table thead tr th{font-size: 16px;line-height: 24px;padding: 20px 5px;}
+	.finances-table table tbody tr td{padding: 20px 5px;font-size: 16px;line-height: 24px;}
+	.chart-block{padding: 0 15px;}
+
+	.plans-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 35px 50px 15px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.plans-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.plans-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+	.plans-block .accordion .accordion-item .accordion-button span{font-size: 45px;margin-right: 15px;}
+
+	.highlights_tab_contain .highlights-title{padding: 0 15px;margin: 0 0 30px;}
+	.highlights_tab_contain .highlights-title ul{justify-content: flex-start}
+	.highlights_tab_contain .highlights-title ul li a{padding: 15px 0 0;width:150px;font-size: 16px;padding: 10px 15px;}
+	.highlights_tab_contain .highlights-info{padding: 0 25px;}
+	.highlights_tab_contain .highlights-info .btn-dark{margin: 0 0 35px;}
+	.highlights_tab_contain .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+
+	.mobile-buttons{display: block;}
+	.togglebar{display: table;}
+}
+
+@media(min-width:448px) and (max-width:575px){
+	.main-wrpper{display: block;}
+	.left-part{width: 100%;height: auto;min-height: unset;}
+	.right-part{width: 100%;height: auto;min-height: unset;}
+	
+	.info-block{display: none;}
+	.bottom-buttons{display: none;}
+	
+	.logo-bix{height: auto;min-height: unset;padding: 10px 15px;}
+	.logo-bix img{max-width: 150px;margin: 0;}
+
+	.tabs{display: block;height: auto;overflow: initial;}
+	.tabs_link{box-shadow: -2px 0px 10px 3px rgba(0, 0, 0, 0.3);padding: 14px 15px;display: block;}
+	.tabs_link .tabs_heading{font-size: 23px;line-height: 26px;transform: unset;}
+	.tab_contain{width: 100%;height: auto;padding: 0}
+	.tabs_content{width: 100%;height: 0;padding: 0;}
+	.tabs_content.active{height: auto;}
+	
+	.foreword-block{padding: 0 25px;}
+	.foreword-block h2{font-size: 26px;line-height: 29px;margin: 0 0 50px;display: none;}
+	.foreword-block p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.about_contain .about-title{display: none;}
+	.tab_contain.about_contain{max-width: 100%;}
+	.about_contain img{margin: 0 0 58px;}
+	.about_contain .about-info{padding: 0 35px;}
+	.about_contain .about-info p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.highlights-title h2{display: none;}
+	.highlights-info{padding: 0 15px 100px;}
+	.highlights-info h3{font-size: 20px;line-height: 23px;margin: 0 0 10px;}
+	.highlights-info p{font-size: 15px;line-height: 24px;}
+
+	.highlights-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 15px;}
+	.highlights-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.highlights-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.highlights-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+
+	.finances-block .highlights-info p{margin: 0 0 30px;}
+	.finances-table{padding: 0 15px 50px;}
+	.finances-table table thead tr th{font-size: 16px;line-height: 24px;padding: 20px 5px;}
+	.finances-table table tbody tr td{padding: 20px 5px;font-size: 16px;line-height: 24px;}
+	.chart-block{padding: 0 15px;}
+
+	.plans-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 35px 50px 15px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.plans-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.plans-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+	.plans-block .accordion .accordion-item .accordion-button span{font-size: 45px;margin-right: 15px;}
+
+	.highlights_tab_contain .highlights-title{padding: 0 15px;margin: 0 0 30px;}
+	.highlights_tab_contain .highlights-title ul{justify-content: flex-start}
+	.highlights_tab_contain .highlights-title ul li a{padding: 15px 0 0;width:150px;font-size: 16px;padding: 10px 15px;}
+	.highlights_tab_contain .highlights-info{padding: 0 25px;}
+	.highlights_tab_contain .highlights-info .btn-dark{margin: 0 0 35px;}
+	.highlights_tab_contain .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+
+	.mobile-buttons{display: block;}
+	.togglebar{display: table;}
+}
+
+@media(max-width:447px){
+	.main-wrpper{display: block;}
+	.left-part{width: 100%;height: auto;min-height: unset;}
+	.right-part{width: 100%;height: auto;min-height: unset;}
+	
+	.info-block{display: none;}
+	.bottom-buttons{display: none;}
+	
+	.logo-bix{height: auto;min-height: unset;padding: 10px 15px;}
+	.logo-bix img{max-width: 150px;margin: 0;}
+
+	.tabs{display: block;height: auto;overflow: initial;}
+	.tabs_link{box-shadow: -2px 0px 10px 3px rgba(0, 0, 0, 0.3);padding: 14px 15px;display: block;}
+	.tabs_link .tabs_heading{font-size: 23px;line-height: 26px;transform: unset;}
+	.tab_contain{width: 100%;height: auto;padding: 0}
+	.tabs_content{width: 100%;height: 0;padding: 0;}
+	.tabs_content.active{height: auto;}
+	
+	.foreword-block{padding: 0 25px;}
+	.foreword-block h2{font-size: 26px;line-height: 29px;margin: 0 0 50px;display: none;}
+	.foreword-block p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.about_contain .about-title{display: none;}
+	.tab_contain.about_contain{max-width: 100%;}
+	.about_contain img{margin: 0 0 58px;}
+	.about_contain .about-info{padding: 0 35px;}
+	.about_contain .about-info p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+
+	.highlights-title h2{display: none;}
+	.highlights-info{padding: 0 15px 100px;}
+	.highlights-info h3{font-size: 20px;line-height: 23px;margin: 0 0 10px;}
+	.highlights-info p{font-size: 15px;line-height: 24px;}
+
+	.highlights-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 15px;}
+	.highlights-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.highlights-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.highlights-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+
+	.finances-block .highlights-info p{margin: 0 0 30px;}
+	.finances-table{padding: 0 15px 50px;}
+	.finances-table table thead tr th{font-size: 16px;line-height: 24px;padding: 20px 5px;}
+	.finances-table table tbody tr td{padding: 20px 5px;font-size: 16px;line-height: 24px;}
+	.chart-block{padding: 0 15px;}
+
+	.plans-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding: 50px 35px 50px 15px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{right: 15px;}
+	.plans-block .accordion .accordion-body .body-info{padding: 20px 25px;}
+	.plans-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+	.plans-block .accordion .accordion-item .accordion-button span{font-size: 45px;margin-right: 15px;}
+
+	.highlights_tab_contain .highlights-title{padding: 0 15px;margin: 0 0 30px;}
+	.highlights_tab_contain .highlights-title ul{justify-content: flex-start}
+	.highlights_tab_contain .highlights-title ul li a{padding: 15px 0 0;width:150px;font-size: 16px;padding: 10px 15px;}
+	.highlights_tab_contain .highlights-info{padding: 0 25px;}
+	.highlights_tab_contain .highlights-info .btn-dark{margin: 0 0 35px;}
+	.highlights_tab_contain .highlights-info p{font-size: 16px;line-height: 24px;margin: 0 0 20px;}
+
+	.mobile-buttons{display: block;}
+	.togglebar{display: table;}
+}
