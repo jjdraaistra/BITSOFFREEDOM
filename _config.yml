@@ -7,9 +7,6 @@ collections:
   pages:
     output: true
     permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
 
 defaults:
   -
@@ -23,14 +20,9 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
 
 markdown: kramdown
+permalink: /:title/
 
 kramdown:
   input: GFM
@@ -40,8 +32,4 @@ sass:
   style: compressed
 
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
-
-paginate: 6
-paginate_path: "/blog/page:num/"
