@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="right-part">
+	<div class="tabs">
+		<a href="{{ site.url }}{{ site.baseurl }}" class="tabs_link green_bg w-inline-block">
+			<p class="tabs_heading">FOREWORD</p>
+		</a>
+		<a href="{{ site.url }}{{ site.baseurl }}" class="tabs_link yellow_bg w-inline-block active">
+			<p class="tabs_heading">HIGHLIGHTS</p>
+		</a>
+		<div class="tabs_content yellow_bg active">
+			<div class="tab_wrap">
+				<div class="tab_contain highlights_tab_contain">
+					<div class="highlights-title">
+						<div class="row">
+							<div class="col-md-6 col-sm-12">
+								<h2 class="text-uppercase">{{ page.title }}</h2>
+							</div>
+							<div class="col-md-6 col-sm-12">
+								<ul>
+									{% for button in page.button %}
+									<li><a href="{{ button.url }}" class="btn-dark text-uppercase">{{ button.name }}</a></li>
+									{% endfor %}
+								</ul>
+							</div>
+						</div>
+					</div>
+
+					<img src="{{ page.featured_image }}" alt="{{ page.title }}" />
+
+					<div class="highlights-info">
+						<a href="{{ page.external_url.url }}" class="btn-dark">{{ page.external_url.name }}</a>
+						{{ page.content }}
+					</div>
+				</div>
+			</div>
+		</div>
+		<a href="{{ site.url }}{{ site.baseurl }}" class="tabs_link light_bg w-inline-block">
+			<p class="tabs_heading">FINANCES</p>
+		</a>
+		<a href="{{ site.url }}{{ site.baseurl }}" class="tabs_link gray_bg w-inline-block">
+			<p class="tabs_heading">PLANS</p>
+		</a>
+	</div>
+</div>

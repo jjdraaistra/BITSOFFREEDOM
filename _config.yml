@@ -7,6 +7,12 @@ collections:
   pages:
     output: true
     permalink: /:name
+  highlights:
+    output: true
+    permalink: /highlight/:slug
+  plans:
+    output: true
+    permalink: /plan/:slug
 
 defaults:
   -
@@ -20,6 +26,18 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  -
+    scope:
+      path: ""
+      type: "highlights"
+    values:
+      layout: "highlights"
+  -
+    scope:
+      path: ""
+      type: "plans"
+    values:
+      layout: "plans"
 
 markdown: kramdown
 permalink: /:title/
