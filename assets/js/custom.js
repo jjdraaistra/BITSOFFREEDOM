@@ -5,7 +5,6 @@ $(document).ready(function () {
         $(this).addClass("active");
         $(this).next(".tabs_content").addClass("active");
     });
-
    
 
     /* **** Add Remove Class **** */

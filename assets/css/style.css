@@ -2,15 +2,17 @@
 
 @font-face {
     font-family: "Freedom";
-    src: url("../fonts/Freedom-light.woff2") format("woff2"), url("../fonts/Freedom-light.woff") format("woff");
-    font-weight: 300;
+    src: url('../fonts/FREEDOMFONT-Super.woff2') format('woff2'),
+        url('../fonts/FREEDOMFONT-Super.woff') format('woff');
+    font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: "Freedom";
-    src: url("../fonts/Freedom-bold.woff2") format("woff2"), url("../fonts/Freedom-bold.woff") format("woff");
+    src: url('../fonts/FREEDOMFONT-Bold.woff2') format('woff2'),
+        url('../fonts/FREEDOMFONT-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -18,11 +20,14 @@
 
 @font-face {
     font-family: "Freedom";
-    src: url("../fonts/Freedom.woff2") format("woff2"), url("../fonts/Freedom.woff") format("woff");
+    src: url('../fonts/FREEDOMFONT-Regular.woff2') format('woff2'),
+        url('../fonts/FREEDOMFONT-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
+
 
 /* ***** Common Css **** */
 
@@ -241,7 +246,7 @@ body {
     left: 0;
     bottom: 0;
     right: 0;
-    padding: 0 50px 20px;
+    padding: 0 40px 20px;
 }
 .bottom-buttons ul {
     display: flex;
@@ -255,6 +260,7 @@ body {
 .bottom-buttons ul li a {
     display: block;
     width: 100%;
+    font-size: 15px;
 }
 
 
@@ -398,9 +404,14 @@ body {
 }
 .highlights-block .accordion .accordion-item .accordion-button:before {
     position: absolute;
-    content: "\f176";
-    font-family: "Font Awesome 5 Pro";
-    right: 85px;
+    content: "";
+    background-image: url("../images/arrow-up.svg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 23px;
+    width: 23px;
+    right: 75px;
     top: 50%;
     font-size: 30px;
     color: #000;
@@ -411,8 +422,7 @@ body {
     transition: all 0.3s linear;
 }
 .highlights-block .accordion .accordion-item .accordion-button.collapsed:before {
-    content: "\f175";
-    font-family: "Font Awesome 5 Pro";
+    background-image: url("../images/arrow-down.svg");
 }
 .highlights-block .accordion .accordion-body {
     padding: 0;
@@ -466,7 +476,7 @@ body {
     background: #ffffff;
     box-shadow: -2px 0px 10px 3px rgba(0, 0, 0, 0.3);
     border-radius: 0px 40px 0px 0px;
-    padding: 50px 100px 50px 60px;
+    padding: 50px 120px 50px 60px;
     z-index: 2;
 }
 .plans-block .accordion .accordion-item .accordion-button span {
@@ -493,9 +503,14 @@ body {
 }
 .plans-block .accordion .accordion-item .accordion-button:before {
     position: absolute;
-    content: "\f176";
-    font-family: "Font Awesome 5 Pro";
-    right: 85px;
+    content: "";
+    background-image: url("../images/arrow-up.svg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 23px;
+    width: 23px;
+    right: 75px;
     top: 50%;
     font-size: 30px;
     color: #000;
@@ -506,8 +521,7 @@ body {
     transition: all 0.3s linear;
 }
 .plans-block .accordion .accordion-item .accordion-button.collapsed:before {
-    content: "\f175";
-    font-family: "Font Awesome 5 Pro";
+    background-image: url("../images/arrow-down.svg");
 }
 .plans-block .accordion .accordion-body {
     padding: 0;
