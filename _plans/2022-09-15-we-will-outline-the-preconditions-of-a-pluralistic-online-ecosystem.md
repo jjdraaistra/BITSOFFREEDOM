@@ -9,7 +9,7 @@ external_url:
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-contributed-to-a-safer-contact-tracing-app-part2"
+    url: "we-will-call-attention-to-the-irresponsible-use-of-data-and-algorithms-by-the-government"
   - name: "BACK TO OVERVIEW"
     url: "/"
 ---
