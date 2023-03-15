@@ -7,9 +7,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<!-- Favicon & Title -->
-		<link rel="shortcut icon" href="{{ site.data.settings.basic_settings.favicon_image | site.baseurl_root }}">
-		<title>{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{
-			page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}</title>
+		<link rel="shortcut icon" href="{{ t basic_settings.favicon_image | site.baseurl_root }}">
+		<title>{% if page.url == "/" %}{{ t basic_settings.site_title }} {{ page.title }}{% else %}{{
+			page.title }} – {{ t basic_settings.site_title }}{% endif %}</title>
 		<meta name="description" content="{{ page.description | strip_html | xml_escape }}">
 
 		<!-- CSS only -->
