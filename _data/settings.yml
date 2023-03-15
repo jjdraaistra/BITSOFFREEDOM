@@ -1,6 +1,5 @@
 basic_settings:
   site_title: Bitsoffreedom
-  description: description goes here
   favicon_image: /assests/images/favicon.png
 
 header_settings:
@@ -17,6 +16,6 @@ menu_settings:
     - title: 'FINANCIAL STATEMENT .PDF'
       url: '#'
     - title: 'NL'
-      url: '/nl'
+      url: '#'
     - title: 'ENG'
-      url: '/'
+      url: '#'
