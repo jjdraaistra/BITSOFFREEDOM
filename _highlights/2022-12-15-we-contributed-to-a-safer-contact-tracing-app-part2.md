@@ -11,6 +11,7 @@ button:
     url: "we-contributed-to-a-safer-contact-tracing-app-part3"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 The statutory objective of Bits of Freedom is "to defend and promote digital civil rights in the information society, including the fundamental right to privacy and freedom of communication, and all related rights, in the broadest sense of the word."
