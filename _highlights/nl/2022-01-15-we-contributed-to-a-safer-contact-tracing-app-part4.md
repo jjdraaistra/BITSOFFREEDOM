@@ -10,7 +10,7 @@ button:
   - name: "NEXT HIGHLIGHT"
     url: "we-contributed-to-a-safer-contact-tracing-app"
   - name: "BACK TO OVERVIEW"
-    url: "/"
+    url: "/nl"
 lang: nl
 ---
 
