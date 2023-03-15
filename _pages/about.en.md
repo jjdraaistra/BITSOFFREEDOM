@@ -2,6 +2,8 @@
 layout: about
 title: About
 featured_image: "/assets/images/about-img.png"
+permalink: about/
+lang: en
 ---
 
 The statutory objective of Bits of Freedom is "to defend and promote digital civil rights in the information society, including the fundamental right to privacy and freedom of communication, and all related rights, in the broadest sense of the word."
