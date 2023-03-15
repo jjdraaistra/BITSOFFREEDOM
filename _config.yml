@@ -51,3 +51,11 @@ sass:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-multiple-languages-plugin
+
+lang: "en"
+defaultLang: en
+languages: ["en","nl"]
+exclude_from_localizations: ["assets"]
+default_locale_in_subfolder: true

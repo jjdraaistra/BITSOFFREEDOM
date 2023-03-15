@@ -1,31 +1,33 @@
-
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <!-- Meta tag -->
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+<html lang="{{ site.lang }}">
 
-        <!-- Favicon & Title -->
-        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png" />
-		<link rel="shortcut icon" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}">
-        <title>{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}</title>
+	<head>
+		<!-- Meta tag -->
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<!-- Favicon & Title -->
+		<link rel="shortcut icon" href="{{ site.data.settings.basic_settings.favicon_image | site.baseurl_root }}">
+		<title>{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{
+			page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}</title>
 		<meta name="description" content="{{ page.description | strip_html | xml_escape }}">
 
-        <!-- CSS only -->
-        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/bootstrap.min.css' | relative_url }}" />
-        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | relative_url }}" />
-        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/responsive.css' | relative_url }}" />
-    </head>
-    <body>
-        <div class="main-wrpper">
+		<!-- CSS only -->
+		<link rel="stylesheet" type="text/css" href="{{ '/assets/css/bootstrap.min.css' | site.baseurl_root }}" />
+		<link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | site.baseurl_root }}" />
+		<link rel="stylesheet" type="text/css" href="{{ '/assets/css/responsive.css' | site.baseurl_root }}" />
+	</head>
 
-            {% include left-panel.html %}
+	<body>
+		<div class="main-wrpper">
 
-            {{ content }}
+			{% include left-panel.html %}
 
-        </div>
+			{{ content }}
 
-        {% include footer.html %}
-    </body>
+		</div>
+
+		{% include footer.html %}
+	</body>
+
 </html>
