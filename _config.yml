@@ -51,3 +51,10 @@ sass:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-polyglot
+
+
+languages: ["en", "nl"]
+default_lang: "en"
+exclude_from_localization: ["assets"]
+parallel_localization: true
