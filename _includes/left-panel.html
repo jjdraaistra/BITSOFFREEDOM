@@ -44,12 +44,12 @@
 			<li><a href="/" class="btn-main">Colophon</a></li>
 			<li>
 				<div class="lang-box">
-					<a href="/nl/" class="btn-white">NL</a>
-					<a href="/" class="btn-dark">ENG</a>
+					{% for tongue in site.languages %}
+					<a {% if tongue==site.active_lang %} class="btn-dark" {% endif %} class="btn-white" {% static_href
+						%}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"
+						{% endstatic_href %}>{{ tongue }}</a> |
+					{% endfor %}
 				</div>
-{% for tongue in site.languages %}
-<a {% if tongue == site.active_lang %} class="btn-dark" {% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ tongue }}</a> |
-  {% endfor %}
 			</li>
 		</ul>
 	</div>
