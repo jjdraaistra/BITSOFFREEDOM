@@ -1,7 +1,7 @@
 site: Bitsoffreedom
 
 url: https://bitsoffreedom.netlify.app
-baseurl: /
+baseurl:
 
 collections:
   pages:
