@@ -47,7 +47,7 @@
 					{% for tongue in site.languages %}
 					<a {% if tongue==site.active_lang %} class="btn-dark" {% endif %} class="btn-white" {% static_href
 						%}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"
-						{% endstatic_href %}>{{ tongue }}</a> |
+						{% endstatic_href %}>{{ tongue }}</a>
 					{% endfor %}
 				</div>
 			</li>
