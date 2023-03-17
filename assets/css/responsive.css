@@ -563,6 +563,10 @@
 	.highlights_tab_contain .highlights-title ul{justify-content: flex-end;}
 	.highlights_tab_contain .highlights-title ul li{margin-right: 5px;}
 	.highlights_tab_contain .highlights-title ul li a{font-size: 8px;width: auto;padding: 2px 12px;}
+
+	.about_contain .about-info p:first-child{font-size: 18px;line-height: 26px;}
+	.about_contain .about-info p{font-size: 16px;line-height: 24px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{display: none;}
 }
 
 @media(max-width:447px){
@@ -585,24 +589,25 @@
 	
 	.foreword-block{padding: 0 25px;}
 	.foreword-block h2{font-size: 26px;line-height: 29px;margin: 0 0 50px;display: none;}
-	.foreword-block p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
+	.about_contain .about-info h4,.foreword-block h4{font-size: 18px;line-height: 26px;}
+	.foreword-block p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
 
 	.about_contain .about-title{display: none;}
 	.about_contain img{margin: 0 0 58px;}
 	.about_contain .about-info{padding: 0 35px;}
 	.about_contain .about-info p{font-size: 18px;line-height: 21px;margin: 0 0 30px;}
-	.about_contain .about-info h4{font-size:20px;line-height: 21px;}
+	.about_contain .about-info h4{font-size:18px;line-height: 26px;}
 
 	.highlights-title h2{display: none;}
-	.highlights-info{padding: 0 15px 100px;}
+	.highlights-info{padding: 20px 15px 64px;}
 	.highlights-info h3{font-size: 20px;line-height: 23px;margin: 0 0 10px;}
 	.highlights-info p{font-size: 15px;line-height: 24px;}
 
-	.highlights-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: 21px;padding:50px 55px 50px 15px;}
+	.highlights-block .accordion .accordion-item .accordion-button{font-size: 18px;line-height: normal;padding:50px 55px 50px 15px;}
 	.highlights-block .accordion .accordion-item .accordion-button:before{right: 15px;}
 	.highlights-block .accordion .accordion-body {background: #fff;}
 	.highlights-block .accordion .accordion-body .body-info{padding: 38px 25px 68px;}
-	.highlights-block .accordion .accordion-body .body-info p{font-size: 16px;line-height: 24px;margin: 0 0 68px;}
+	.highlights-block .accordion .accordion-body .body-info p{font-size: 18px;line-height: 26px;margin: 0 0 55px;}
 
 	.finances-block .highlights-info p{margin: 0 0 30px;}
 	.finances-table{padding: 0 15px 50px;}
@@ -639,10 +644,17 @@
 	.highlights_tab_contain .highlights-title h2{display: block;font-size: 26px;line-height: 30px;}
 	.highlights_tab_contain .highlights-title ul{justify-content: flex-end;}
 	.highlights_tab_contain .highlights-title ul li{margin-right: 5px;}
-	.highlights_tab_contain .highlights-title ul li a{font-size: 8px;width: auto;padding: 2px 12px;}
+	.highlights_tab_contain .highlights-title ul li a{font-size: 8px;width: auto;padding: 2px 12px;}	
+
+	.about_contain .about-info p:first-child{font-size: 18px;line-height: 26px;}
+	.about_contain .about-info p{font-size: 16px;line-height: 24px;}
+	.plans-block .accordion .accordion-item .accordion-button:before{display: none;}
 }
-@media(max-width:375px){
+@media(max-width:385px){
 	.highlights_tab_contain .highlights-title .col-md-6{width: 100%;}
 	.highlights_tab_contain .highlights-title .col-md-6:last-child{width: 100%;}
 	.highlights_tab_contain .highlights-title ul{justify-content: flex-start;margin: 10px 0 0}
+
+	.mobile-buttons ul{display: block;}
+	.mobile-buttons ul li a{display: block;text-align: center;}
 }
