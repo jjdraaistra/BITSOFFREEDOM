@@ -687,10 +687,12 @@ body {
     letter-spacing: -0.04em;
     color: #000000;
     margin: 0 0 60px;
+	padding-right: 60px;
 }
 .about_contain .about-info p:first-child{
     font-size: 24px;
     line-height: 36px;
+    padding-right: 60px;
 }
 .about_contain .about-info p a {
     text-decoration: underline;
