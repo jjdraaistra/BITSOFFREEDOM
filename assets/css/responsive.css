@@ -636,7 +636,7 @@
 	.highlights-block .accordion .accordion-body .body-info .btn-dark{font-size: 8px;padding: 4px 20px;}
 	.highlights_tab_contain img{margin: 0 0 58px;}
 	.highlights_tab_contain .highlights-info{padding: 0 36px;}
-	.highlights_tab_contain .highlights-info .btn-dark{font-size: 12px;padding: 8px 20px}
+	.highlights_tab_contain .highlights-info .btn-dark{font-size: 10px;padding: 8px 20px}
 
 	.highlights_tab_contain .highlights-title{padding: 30px 15px 25px;margin: 0;}
 	.highlights_tab_contain .highlights-title .col-md-6{width: 40%;}
@@ -644,7 +644,7 @@
 	.highlights_tab_contain .highlights-title h2{display: none;font-size: 26px;line-height: 30px;}
 	.highlights_tab_contain .highlights-title ul{justify-content: flex-end;}
 	.highlights_tab_contain .highlights-title ul li{margin-right: 5px;}
-	.highlights_tab_contain .highlights-title ul li a{font-size: 8px;width: auto;padding: 2px 12px;}
+	.highlights_tab_contain .highlights-title ul li a{font-size: 10px;width: auto;padding: 8px 12px;}
 
 	.about_contain .about-info p:first-child{font-size: 18px;line-height: 26px;padding-right: 0px;}
 	.about_contain .about-info p{font-size: 16px;line-height: 24px;padding-right: 0px;}
