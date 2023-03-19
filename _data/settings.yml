@@ -8,14 +8,14 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'About Bits of Freedom'
-      url: '#'
+      url: '/about/'
     - title: 'Colophon'
-      url: '#'
+      url: '/'
     - title: 'ANNUAL REPORT .PDF'
       url: '#'
     - title: 'FINANCIAL STATEMENT .PDF'
       url: '#'
     - title: 'NL'
-      url: '#'
+      url: '/nl/'
     - title: 'ENG'
-      url: '#'
+      url: '/'
