@@ -564,8 +564,8 @@
 	.highlights_tab_contain .highlights-title ul li{margin-right: 5px;}
 	.highlights_tab_contain .highlights-title ul li a{font-size: 8px;width: auto;padding: 2px 12px;}
 
-	.about_contain .about-info p:first-child{font-size: 18px;line-height: 26px;}
-	.about_contain .about-info p{font-size: 16px;line-height: 24px;}
+	.about_contain .about-info p:first-child{font-size: 18px;line-height: 26px;padding-right:0px}
+	.about_contain .about-info p{font-size: 16px;line-height: 24px;padding-right:0px}
 	.plans-block .accordion .accordion-item .accordion-button:before{display: none;}
 }
 
