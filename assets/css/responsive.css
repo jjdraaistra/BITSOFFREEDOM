@@ -487,6 +487,12 @@
 	.highlights_tab_contain .highlights-title ul{justify-content: flex-end;}
 	.highlights_tab_contain .highlights-title ul li{margin-right: 5px;}
 	.highlights_tab_contain .highlights-title ul li a{font-size: 8px;width: auto;padding: 2px 12px;}
+
+	.plans-block .accordion-collapse.collapse,
+	.highlights-block .accordion-collapse.collapse {
+	    display: block;
+	    height: auto;
+	}
 }
 
 @media(min-width:448px) and (max-width:575px){
@@ -567,6 +573,12 @@
 	.about_contain .about-info p:first-child{font-size: 18px;line-height: 26px;padding-right:0px}
 	.about_contain .about-info p{font-size: 16px;line-height: 24px;padding-right:0px}
 	.plans-block .accordion .accordion-item .accordion-button:before{display: none;}
+
+	.plans-block .accordion-collapse.collapse,
+	.highlights-block .accordion-collapse.collapse {
+	    display: block;
+	    height: auto;
+	}
 }
 
 @media(max-width:447px){
@@ -650,6 +662,12 @@
 	.about_contain .about-info p{font-size: 16px;line-height: 24px;padding-right: 0px;}
 	.plans-block .accordion .accordion-item .accordion-button:before{display: none;}
 	.plans-block .accordion .accordion-body .body-info .btn-dark{font-size: 8px;padding: 4px 20px;}
+
+	.plans-block .accordion-collapse.collapse,
+	.highlights-block .accordion-collapse.collapse {
+	    display: block;
+	    height: auto;
+	}
 }
 @media(max-width:385px){
 	.highlights_tab_contain .highlights-title .col-md-6{width: 100%;}
