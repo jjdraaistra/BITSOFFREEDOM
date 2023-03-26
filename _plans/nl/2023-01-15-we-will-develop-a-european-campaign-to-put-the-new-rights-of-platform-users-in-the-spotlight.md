@@ -1,7 +1,7 @@
 ---
-title: "We will develop a European campaign to put the new rights of platform users in the spotlight"
+title: "We ontwikkelen een Europese campagne om de nieuwe rechten van platformgebruikers in het zonnetje te zetten"
 date: 2023-01-15 00:00:00
-description: Europe-wide, new rights are in force which better protect citizens from misleading information on the big platforms. That is fantastic news
+description: In heel Europa hebben mensen nieuwe rechten waarmee ze beter beschermd zijn tegen misleiding door de grote platforms. Dat is super goed nieuws! Maar je moet er wel maar net vanaf weten
 featured_image: "/assets/images/tracing-img.png"
 number: 1
 external_url:
@@ -15,4 +15,4 @@ button:
 lang: nl
 ---
 
-Europe-wide, new rights are in force which better protect citizens from misleading information on the big platforms. That is fantastic news! But not everyone knows about it ... That's why we're currently working on a national and European campaign in cooperation with a broad-based coalition in order to raise awareness of it. In particular, we want to strengthen the position of public-interest groups that use online tools to attain their goals.
+In heel Europa hebben mensen nieuwe rechten waarmee ze beter beschermd zijn tegen misleiding door de grote platforms. Dat is super goed nieuws! Maar je moet er wel maar net vanaf weten... We ontwikkelen daarom met een brede maatschappelijke coalitie een nationale en Europese campagne om mensen te informeren. In het bijzonder willen we maatschappelijke actoren versterken in hun gebruik van online middelen om hun doelen te bereiken.

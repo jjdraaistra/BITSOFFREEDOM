@@ -1,7 +1,7 @@
 ---
-title: "We will protect the right to communicate confidentially via the internet"
+title: "We beschermen het recht om vertrouwelijk via het internet te communiceren"
 date: 2022-07-05 00:00:00
-description: In the coming year, despite a disastrous and undermining proposal by the European Commission, we will see to it that the confidentiality of our online communications remains guaranteed.
+description: In 2023 zorgen we ervoor dat de vertrouwelijkheid van onze online communicatie blijft geborgd, ondanks een desastreus en ondermijnend voorstel van de Europese Commissie.
 featured_image: "/assets/images/tracing-img.png"
 number: 11
 external_url:
@@ -15,4 +15,4 @@ button:
 lang: nl
 ---
 
-In the coming year, despite a disastrous and undermining proposal by the European Commission, we will see to it that the confidentiality of our online communications remains guaranteed.
+In 2023 zorgen we ervoor dat de vertrouwelijkheid van onze online communicatie blijft geborgd, ondanks een desastreus en ondermijnend voorstel van de Europese Commissie.

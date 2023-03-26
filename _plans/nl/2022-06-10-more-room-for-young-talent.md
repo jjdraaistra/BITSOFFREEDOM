@@ -1,7 +1,7 @@
 ---
-title: "More room for young talent"
+title: "Meer ruimte voor jong talent"
 date: 2022-06-10 00:00:00
-description: We have adopted policy that encourages us to supervise a minimum of two trainees and one student per year
+description: We hebben beleid gemaakt dat ons aanspoort elk jaar ten minste twee stagiairs en één werkstudent te begeleiden.
 featured_image: "/assets/images/tracing-img.png"
 number: 14
 external_url:
@@ -15,5 +15,4 @@ button:
 lang: nl
 ---
 
-We have adopted policy that encourages us to supervise a minimum of two trainees and one student per year. One reason for this is our desire to exert influence on our own field of activity, including by increasing the influx of talented starters in civil society. But it is also because we believe that there is much that we can learn from trainees and students. We consciously give these positions in our organization to individuals who have less access to their chosen field or are
-underrepresented in it.
+We hebben beleid gemaakt dat ons aanspoort elk jaar ten minste twee stagiairs en één werkstudent te begeleiden. We willen namelijk enerzijds ons werkveld mede-vormgeven, waaronder door de instroom van talentvolle starters in het maatschappelijk middenveld te vergroten. Anderzijds denken we dat we veel kunnen leren van stagiairs en werkstudenten. Deze posities binnen onze organisatie geven we bewust aan mensen die moeilijker toegang hebben tot het veld waarin we opereren, of daar minder goed gerepresenteerd zijn.

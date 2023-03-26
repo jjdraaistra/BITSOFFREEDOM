@@ -1,7 +1,7 @@
 ---
-title: "We will encourage the government to employ best practices concerning compliance with privacy legislation"
+title: "We stimuleren best practices bij de overheid rondom de naleving van privacywetgeving"
 date: 2022-08-15 00:00:00
-description: In 2022, we investigated how the ten biggest Dutch municipalities approach data, GDPR requests and transparency obligations. We also looked at what resources municipalities make available for attaining compliance with privacy legislation.
+description: In 2022 onderzochten we hoe de tien grootste gemeenten omgaan met hun datahuishouding, AVG-verzoeken en transparantieverplichtingen.
 featured_image: "/assets/images/tracing-img.png"
 number: 4
 external_url:
@@ -15,6 +15,7 @@ button:
 lang: nl
 ---
 
-In 2022, we investigated how the ten biggest Dutch municipalities approach data, GDPR requests and transparency obligations. We also looked at what resources municipalities make available for attaining compliance with privacy legislation. Our conclusion: municipalities don't comply well at all with legal requirements. Worse yet, only one municipality got a passing grade.
 
-As a result of our investigation, the government had to respond to parliamentary questions and the secretary of state for digitization reached agreements with the Association of Netherlands Municipalities concerning improvements. This year, around the fifth anniversary of the General Data Protection Regulation, we will again call attention to this topic. What progress has been made in the past twelve months?
+In 2022 onderzochten we hoe de tien grootste gemeenten omgaan met hun datahuishouding, AVG-verzoeken en transparantieverplichtingen. Ook keken we naar de capaciteit die gemeenten vrijmaken om aan privacywetgeving te voldoen. De conclusie was dat gemeenten de wet erg slecht naleven. Sterker nog, slechts [één gemeente wist een voldoende te scoren](https://www.bitsoffreedom.nl/2022/05/24/gemeenten-houden-zich-onvoldoende-aan-de-privacywet-blijkt-uit-ons-onderzoek/).
+
+Naar aanleiding van ons onderzoek, werden er kamervragen gesteld en de Staatssecretaris van Digitalisering maakte met de Vereniging voor Nederlandse Gemeenten afspraken over verbeteringen. Wij vragen dit jaar rond de vijfde verjaardag van de Algemene verordening gegevensbescherming opnieuw aandacht voor dit onderwerp. Hoe staat het er een jaar later voor?

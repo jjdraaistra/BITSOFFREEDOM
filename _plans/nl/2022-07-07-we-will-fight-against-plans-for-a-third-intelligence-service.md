@@ -1,7 +1,7 @@
 ---
-title: "We will fight against plans for a third intelligence service"
+title: "We steken een stokje voor de plannen voor een derde inlichtingendienst"
 date: 2022-07-07 00:00:00
-description: In 2021, it came to light that the National Coordinator for Security and Counterterrorism (NCTV) had secretly spied on people in the Netherlands.
+description: In 2021 werd bekend dat de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) in het geheim mensen in Nederland bespioneerde.
 featured_image: "/assets/images/tracing-img.png"
 number: 9
 external_url:
@@ -15,6 +15,7 @@ button:
 lang: nl
 ---
 
-In 2021, it came to light that the National Coordinator for Security and Counterterrorism (NCTV) had secretly spied on people in the Netherlands. But instead of a good rap on the knuckles, the NCTV was rewarded by the minister for justice and security with a bill to make such unlawful practices legal. This would have ushered-in the Netherlands' third intelligence service.
 
-In 2022, we slowed down the minister's plans by mobilizing broad-based resistance. In 2023, we will ensure that the bill intended to legalize the unlawful surveillance practices of the NCTV can only be used for the purpose of defining existing intelligence tasks more clearly.
+In 2021 werd bekend dat de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) in het geheim mensen in Nederland bespioneerde. In plaats van een flinke tik op de vingers, werd de NCTV door de Minister voor Justitie en Veiligheid beloond met een wetsvoorstel waarmee de wanpraktijken legaal zouden worden. Daarmee zou de derde inlichtingendienst in Nederland een feit zijn.
+
+In 2022 vertraagden we de plannen van de minister door breed verzet te mobiliseren. In 2023 zorgen we dat [het wetsvoorstel dat de onrechtmatige surveillancepraktijken van de NCTV zou legaliseren](https://www.bitsoffreedom.nl/2021/11/12/coordinator-blijf-bij-je-leest/) enkel en alleen gebruikt wordt om de bestaande taken helderder af te bakenen.

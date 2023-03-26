@@ -1,7 +1,7 @@
 ---
-title: "We will protect human rights in the AI Regulation"
+title: "We beschermen mensenrechten in de AI-verordening"
 date: 2022-09-15 00:00:00
-description: In the past year, we substantially influenced the European proposal for rules around AI
+description: Het afgelopen jaar hadden we een grote positieve impact op het Europese voorstel voor regels rondom AI.
 featured_image: "/assets/images/tracing-img.png"
 number: 3
 external_url:
@@ -15,4 +15,4 @@ button:
 lang: nl
 ---
 
-In the past year, we substantially influenced the European proposal for rules around AI. For the planned legislation, there is increasing focus on rights of transparency and more or stricter prohibitions on AI applications, including predictive policing and biometric surveillance in the public space. Exactly what we have been fighting for! But there is still much to be done. That is why in 2023 we will continue to strive for a law that provides good protection of human rights.
+Het afgelopen jaar hadden we een grote positieve impact op het Europese voorstel voor regels rondom AI. Er komt in de wet steeds meer aandacht voor transparantierechten en meer of strengere verboden AI-toepassingen, waaronder predictive policing en biometrische surveillance in de publieke ruimte. Precies waar wij ons hard voor hebben gemaakt! Maar er is nog veel werk aan de winkel. We blijven ons daarom in 2023 hard maken voor een wet waarin mensenrechten goed zijn beschermd.

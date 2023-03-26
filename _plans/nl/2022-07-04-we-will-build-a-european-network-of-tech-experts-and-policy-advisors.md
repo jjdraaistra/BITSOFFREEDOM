@@ -1,7 +1,7 @@
 ---
-title: "We will build a European network of tech-experts and policy advisors"
+title: "We bouwen aan een Europees netwerk van techneuten en beleidsadviseurs"
 date: 2022-07-04 00:00:00
-description: Digitization has inherent risks.
+description: Digitalisering brengt risico's met zich  mee.
 featured_image: "/assets/images/tracing-img.png"
 number: 12
 external_url:
@@ -15,6 +15,6 @@ button:
 lang: nl
 ---
 
-Digitization has inherent risks. And unfortunately, those risks are increasingly becoming a reality. With the help of algorithms, companies are making us addicted to their exploitative platforms, and the government seems to have blind faith in discriminatory data. It is our aim to uncover proof of such unlawful practices and use it in legal actions and awareness campaigns and as part of our efforts to influence policy.
+Digitalisering brengt risico's met zich  mee. Helaas zien we die risico's steeds vaker in de praktijk werkelijkheid worden. Bedrijven maken ons met behulp van algoritmen verslaafd aan hun exploitatieve platformen, en de overheid vaart blind op discriminerende data. Wij willen het bewijs van deze wanpraktijken boven tafel krijgen. Om te gebruiken in onze beleidsbeïnvloeding, bewustwordingscampagnes en rechtszaken.
 
-It was for this reason that, in 2022, we added a tech-researcher to our team. He immersed himself in the world of policy, created an investigative infrastructure and began building a European network of tech-experts, lawyers and campaigners. This year, we plan to initiate a number of small-scale campaigns based on technical research, as well as to fortify the new investigative infrastructure to facilitate effective cooperation.
+In 2022 namen we daarom onze eerste tech onderzoeker aan. Hij dompelde zich onder in de wereld van beleid, zette een onderzoeksinfrastructuur op en startte aan het bouwen van een Europees netwerk van techneuten, juristen en campaigners. In 2023 runnen we verschillende kleinschalige campagnes op basis van technisch onderzoek en stutten we de infrastructuur om effectief samen te werken.

@@ -1,7 +1,7 @@
 ---
-title: "We will call for stronger oversight of the intelligence and security services"
+title: "We versterken het toezicht op de geheime diensten"
 date: 2022-07-08 00:00:00
-description: In 2022, the policy labyrinth of legislation for the intelligence and security services was further expanded, this time with a new, so-called temporary legislative supplement.
+description: In 2022 werd er verder gebouwd aan het beleidslabyrinth van wetgeving voor de geheime diensten, deze keer met een nieuwe, zogenaamd tijdelijke aanvulling op de wet.
 featured_image: "/assets/images/tracing-img.png"
 number: 8
 external_url:
@@ -15,6 +15,6 @@ button:
 lang: nl
 ---
 
-In 2022, the policy labyrinth of legislation for the intelligence and security services was further expanded, this time with a new, so-called temporary legislative supplement. Now, the proposed Cyber Act is intended to give the intelligence and security services yet more room to collect and use data. By means of the proposed legislation, government ministers also want to reduce oversight. A very bad move indeed, as strong oversight of the intelligence and security services is of crucial importance. It is one of the few ways available to society for ensuring that these services do their work well, but in accordance with the law.
+In 2022 werd er verder gebouwd aan het beleidslabyrinth van wetgeving voor de geheime diensten, deze keer met een nieuwe, zogenaamd tijdelijke aanvulling op de wet. Het voorstel voor de [Cyberwet](https://www.bitsoffreedom.nl/2022/04/13/nieuwe-tijdelijke-cyberwet-geeft-geheime-diensten-ruim-baan/) zou de geheime diensten opnieuw meer ruimte geven om gegevens te verzamelen en gebruiken. Daarnaast willen de ministers via het wetsvoorstel ook het [toezicht afschalen](https://www.bitsoffreedom.nl/2022/09/23/de-cyberwet-is-een-regelrechte-aanval-op-de-toezichthouder/). Zeer kwalijk. Sterk toezicht op de geheime diensten is namelijk heel belangrijk. Het is een van de weinige manieren waarop de samenleving kan controleren dat de diensten hun werk goed en volgens de wet uitvoeren.
 
-In the coming year, we will do everything in our power to get oversight of the intelligence and security services strengthened and to prevent them from being given expanded powers.
+In het komende jaar zetten we alles op alles om het toezicht op de geheime diensten te versterken, en te voorkomen dat de geheime diensten uitgebreidere bevoegdheden krijgen.

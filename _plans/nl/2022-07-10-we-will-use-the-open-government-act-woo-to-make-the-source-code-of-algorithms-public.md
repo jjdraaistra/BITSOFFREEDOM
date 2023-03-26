@@ -1,7 +1,7 @@
 ---
-title: "We will use the Open Government Act WOO to make the source code of algorithms public"
+title: "We gebruiken de Woo om de broncode van algoritmen openbaar te krijgen"
 date: 2022-07-10 00:00:00
-description: How transparent should the government be about its use of algorithms
+description: Hoeveel openheid moet de overheid geven over haar gebruik van algoritmen
 featured_image: "/assets/images/tracing-img.png"
 number: 6
 external_url:
@@ -15,4 +15,4 @@ button:
 lang: nl
 ---
 
-How transparent should the government be about its use of algorithms? In our opinion, algorithms must be available on demand: the code, the context and possibly the input data, too. Certainly where algorithms take decisions with a big impact on people's lives. So the Netherlands wants to be digital frontrunner in Europe? Then let it become frontrunner in the areas of transparency and verifiability! We'll be happy to help out!
+Hoeveel openheid moet de overheid geven over haar gebruik van algoritmen? Wij vinden dat algoritmen opvraagbaar moeten zijn: de code, de context en misschien wel de inputdata. Zeker wanneer deze algoritmen beslissingen maken met grote impact op het leven van mensen. Nederland wil zo graag digitale koploper worden in Europa? Laat haar dat dan worden op het gebied van transparantie en controleerbaarheid. We dragen graag ons steentje bij.

@@ -1,7 +1,7 @@
 ---
-title: "We will shine a light on Big Tech on government websites"
+title: "We richten de spotlight op Big Tech op overheidswebsites"
 date: 2022-07-15 00:00:00
-description: Increasingly, our contact with public and semi-public organizations is via the internet.
+description: Steeds meer van ons contact met publieke en semi-publieke organisaties loopt via het internet.
 featured_image: "/assets/images/tracing-img.png"
 number: 5
 external_url:
@@ -15,5 +15,4 @@ button:
 lang: nl
 ---
 
-Increasingly, our contact with public and semi-public organizations is via the internet. Whether you need to contact Tax and Customs, your municipality, a care provider or your child's elementary school, there's a good chance that you'll need to use their websites. Unfortunately, many of these sites were not made with privacy in mind. Many of them contain Google Analytics or other trackers. In 2022, we began analyzing public and semi-public websites and the tracking that takes place on
-them. In the new year, we plan to regularly call attention to the need for improvements, and to make our tooling available to our European sister organizations, to make it easy for them to carry out the same research in their countries.
+Steeds meer van ons contact met publieke en semi-publieke organisaties loopt via het internet. Of je nou bij de Belastingdienst, je gemeente, een zorgverzekeraar of basisschool moet zijn, goede kans dat je iets met de websites van deze organisaties moet. Veel van deze sites zijn echter niet gemaakt met privacy in gedachten. Een groot deel bevat Google Analytics of andere trackers. In 2022 zijn we begonnen met het in kaart brengen van publieke en semi-publieke websites en de tracking die op die sites plaatsvindt. In het nieuwe jaar willen we regelmatig aandacht vragen voor verbeteringen. En we maken onze tooling beschikbaar aan Europese zusterorganisaties, zodat zij gemakkelijk hetzelfde onderzoek in hun land kunnen uitvoeren.

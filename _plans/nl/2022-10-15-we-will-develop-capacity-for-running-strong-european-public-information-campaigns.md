@@ -1,7 +1,7 @@
 ---
-title: "We will develop capacity for running strong European public information campaigns"
+title: "We ontwikkelen capaciteit om vette Europese publiekscampagnes te runnen"
 date: 2022-10-15 00:00:00
-description: We're a small organization. But through smart use of lobbying and public pressure, we nevertheless get a lot done. Because more and more important legislation now comes out of Brussels and important decisions are being taken there in greater frequency
+description: We zijn een kleine organisatie. Maar door slim gebruik van lobby en publieke druk weten we toch veel voor elkaar te krijgen. We willen onze ervaring op het gebied van publiekscommunicatie aanwenden om Europa-breed campagne te voeren.
 featured_image: "/assets/images/tracing-img.png"
 number: 2
 external_url:
@@ -15,4 +15,4 @@ button:
 lang: nl
 ---
 
-We're a small organization. But through smart use of lobbying and public pressure, we nevertheless get a lot done. Because more and more important legislation now comes out of Brussels and important decisions are being taken there in greater frequency, we want to take the experience we've gained in the field of public communication and apply it to Europe-wide campaigns. For this reason, we plan, in the coming year, to develop new tools and share these, and our expertise, with our partners. We're also currently working with other European organizations on a pilot campaign, to serve as a model for future large-scale campaigns.
+We zijn een kleine organisatie. Maar door slim gebruik van lobby en publieke druk weten we toch veel voor elkaar te krijgen. We willen onze ervaring op het gebied van publiekscommunicatie aanwenden om Europa-breed campagne te voeren. Omdat steeds meer wetgeving uit Brussel komt en belangrijke belissingen dus deels daar genomen worden. Daarvoor ontwikkelen we in 2023 nieuwe tools en delen we expertise en middelen. Ook werken we samen met andere Europese organisaties in een eerste campagne pilot, die kan dienen als model voor toekomstige campagnes op schaal.

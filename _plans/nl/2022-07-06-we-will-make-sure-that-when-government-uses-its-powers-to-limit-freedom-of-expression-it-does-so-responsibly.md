@@ -1,7 +1,7 @@
 ---
-title: "We will make sure that when government uses its powers to limit freedom of expression, it does so responsibly "
+title: "We zorgen dat de overheid verantwoord omgaat met haar macht om onze uitingsvrijheid te beperken"
 date: 2022-07-06 00:00:00
-description: The Ministry of Justice and Security develops guidelines for determining whether the government should remove information from the internet.
+description: THet Ministerie van Justitie en Veiligheid ontwikkelt richtlijnen rondom het wel of niet offline laten halen van informatie door de overheid. Dat gebeurt nu namelijk te ad-hoc, waardoor mensenrechten onder druk komen te staan.
 featured_image: "/assets/images/tracing-img.png"
 number: 10
 external_url:
@@ -15,6 +15,6 @@ button:
 lang: nl
 ---
 
-The Ministry of Justice and Security develops guidelines for determining whether the government should remove information from the internet. But at present, this is done in an all too ad-hoc manner, so that human rights can be jeopardized.
+THet Ministerie van Justitie en Veiligheid ontwikkelt richtlijnen rondom het wel of niet offline laten halen van informatie door de overheid. Dat gebeurt nu namelijk te ad-hoc, waardoor mensenrechten onder druk komen te staan.
 
-We got involved in the design process already in the project's early stages. But, as the project will first really get going in 2023, what will our position be then? -- the government may only meddle with our freedom of expression under strict conditions! But we also have constructive feedback: we want everyone affected by this policy to be heard, in order to ensure that everyone's rights and freedoms are protected.
+Wij waren in een vroeg stadium betrokken bij de vormgeving van het project. In 2023 gaat het ministerie echt van start. Onze inbreng? Alleen onder strikte voorwaarden mag de overheid zich met onze uitingsvrijheid bemoeien. Maar ook hebben we op het proces zelf constructieve feedback. We willen namelijk dat iedereen die door dit beleid geraakt wordt, gehoord wordt. Zodat straks de rechten en vrijheden van alle mensen worden beschermd.

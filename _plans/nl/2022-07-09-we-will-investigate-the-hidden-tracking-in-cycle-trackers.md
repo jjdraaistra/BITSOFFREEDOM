@@ -1,7 +1,7 @@
 ---
-title: "We will investigate the hidden tracking in cycle trackers"
+title: "We onderzoeken de verborgen tracking in cyclustrackers"
 date: 2022-07-09 00:00:00
-description: Violations of privacy on menstruation apps are rampant.
+description: Privacyschendingen op menstruatieapps zijn aan de orde van de dag.
 featured_image: "/assets/images/tracing-img.png"
 number: 7
 external_url:
@@ -15,6 +15,6 @@ button:
 lang: nl
 ---
 
-Violations of privacy on menstruation apps are rampant. People who menstruate and use such apps share a great deal of personal (medical) data on them, from which even pregnancy or abortion can be deduced. It's obvious that such data must be treated with care.
+Privacyschendingen op menstruatieapps zijn aan de orde van de dag. Mensen die menstrueren en deze apps gebruiken delen veel persoonlijke (medische) informatie met de apps, waaruit ook bijvoorbeeld een zwangerschap of abortus afgeleid kan worden. Het is dan ook heel belangrijk dat er zorgvuldig met deze gegevens om wordt gegaan.
 
-Following a comprehensive investigation by Privacy International some years ago, we are now curious: what is the current state of affairs? In 2023, we will be carrying out a technical investigation into a number of widely used apps.
+Na breed onderzoek van Privacy International enkele jaren geleden zijn wij benieuwd: hoe staat het er nu mee? In 2023 verrichten we technisch onderzoek naar een aantal veelgebruikte apps.
