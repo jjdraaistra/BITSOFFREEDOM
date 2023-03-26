@@ -195,7 +195,8 @@ contents4:
                         </div>
 
                         <div class="accordion" id="accordionExample1">
-                            {% for item in site.highlights reversed %}
+                          {% assign highlights = site.highlights | where:"lang", page.lang %}
+                            {% for item in highlights reversed %}
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingfaq1">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
