@@ -293,6 +293,7 @@ contents4:
                         </div>
 
                         <div class="accordion" id="accordionExample2">
+							{% assign plans = site.plans | where:"lang", page.lang %}
                             {% for item in site.plans reversed %}
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingfaq1">
