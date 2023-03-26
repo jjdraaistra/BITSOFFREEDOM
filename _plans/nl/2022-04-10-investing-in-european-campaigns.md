@@ -1,7 +1,7 @@
 ---
-title: "Investing in European campaigns"
+title: "Investeren in Europese campagnes"
 date: 2022-04-10 00:00:00
-description: We're a small organization. But through smart use of lobbying and public pressure, we nevertheless get a lot done.
+description: We zijn een kleine organisatie. Maar door slim gebruik van lobby en publieke druk weten we toch veel voor elkaar te krijgen.
 featured_image: "/assets/images/tracing-img.png"
 number: 16
 external_url:
@@ -15,4 +15,4 @@ button:
 lang: nl
 ---
 
-We're a small organization. But through smart use of lobbying and public pressure, we nevertheless get a lot done. We want to take the experience we've gained in the field of public communication and apply it to Europe-wide campaigns. Because more and more important legislation now comes out of Brussels, and enforcement at the national level is increasingly taking on a European dimension. For this reason, we plan, in the coming year, to develop new tools and share these, and our expertise, with our partners. We're also currently working with other European organizations on a pilot campaign, whose central theme is increasing awareness about the Digital Services Act and Digital Markets Act and disseminating information on their enforcement. We hope that this pilot can serve as a model for future large-scale campaigns.
+We zijn een kleine organisatie. Maar door slim gebruik van lobby en publieke druk weten we toch veel voor elkaar te krijgen. We willen onze ervaring op het gebied van publiekscommunicatie aanwenden om Europa-breed campagne te voeren. Omdat steeds meer wetgeving uit Brussel komt, en handhaving op nationaal niveau steeds vaker een Europese dimensie krijgt. Daarvoor ontwikkelen we in 2023 nieuwe tools en delen we expertise en middelen. We zetten met andere Europese organisaties een "campagne pilot" op. Die campagne staat in het teken van het vergroten van bewustwording onder mensen over de Digital Services Act en Digital Markets Act, en het informeren van handhaving van de wetten. Deze pilot kan hopelijk dienen als model voor toekomstige campagnes op schaal.
