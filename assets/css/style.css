@@ -61,7 +61,11 @@
 }
 
 
-
+@media (min-width: 1401px) and (max-width: 1600px)
+.tab_contain {
+    width: 48vw !important;
+    margin: 0 auto;
+}
 
 /* ***** Common Css **** */
 
