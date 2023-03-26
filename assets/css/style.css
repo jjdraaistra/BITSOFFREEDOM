@@ -595,10 +595,13 @@ body {
 
 /* **** finances **** */
 .finances-block .highlights-info p {
-    margin: 0 0 50px;
+    margin: 0 0 30px;
 }
 .finances-block .highlights-info p:last-child {
     margin: 0;
+}
+.finances-block .highlights-info ul li {
+    list-style: disc;
 }
 .finances-table {
     padding: 0 60px 130px;
