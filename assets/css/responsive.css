@@ -1,5 +1,5 @@
 @media(min-width:1801px) and (max-width:1900px){
-	.tab_contain{width: 49vw;margin: 0 auto;}
+	.tab_contain{width: 50vw;margin: 0 auto;}
 	.tab_contain.about_contain {width: 841px;}
 
 
@@ -14,7 +14,7 @@
 	.tabs_link{padding: 30px 15px;}
 	.tabs_link .tabs_heading{font-size: 20px;line-height: 30px;}
 	.foreword-block{padding: 0 15px;}
-	.tab_contain{width: 49vw;margin: 0 auto;}
+	.tab_contain{width: 50vw;margin: 0 auto;}
 	.foreword-block h2{font-size: 30px;line-height: 40px;margin: 0 0 20px;}
 	.foreword-block p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
 
@@ -68,7 +68,7 @@
 	.tabs_link{padding: 30px 15px;}
 	.tabs_link .tabs_heading{font-size: 20px;line-height: 30px;}
 	.foreword-block{padding: 0 15px;}
-	.tab_contain{width: 667px;margin: 0 auto;}
+	.tab_contain{width: 50vw; margin: 0 auto;}
 	.foreword-block h2{font-size: 30px;line-height: 40px;margin: 0 0 20px;}
 	.foreword-block p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
 
@@ -122,7 +122,7 @@
 	.tabs_link{padding: 30px 15px;}
 	.tabs_link .tabs_heading{font-size: 20px;line-height: 30px;}
 	.foreword-block{padding: 0 15px;}
-	.tab_contain{width: 537px;margin: 0 auto;}
+	.tab_contain{width: 50vw;margin: 0 auto;}
 	.foreword-block h2{font-size: 30px;line-height: 40px;margin: 0 0 20px;}
 	.foreword-block p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
 
@@ -199,7 +199,7 @@
 	.tabs_link{padding: 30px 15px;}
 	.tabs_link .tabs_heading{font-size: 20px;line-height: 30px;}
 	.foreword-block{padding: 0 15px;}
-	.tab_contain{width: 49vw;margin: 0 auto;}
+	.tab_contain{width: 50vw;margin: 0 auto;}
 	.foreword-block h2{font-size: 30px;line-height: 40px;margin: 0 0 20px;}
 	.foreword-block p{font-size: 16px;line-height: 24px;margin: 0 0 30px;}
 
