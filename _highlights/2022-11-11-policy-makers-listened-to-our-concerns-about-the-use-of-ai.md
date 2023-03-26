@@ -11,6 +11,7 @@ button:
     url: "we-revealed-that-dutch-municipalities-are-negligent-when-it-comes-to-our-privacy"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 In 2022, the European Parliament and the governments of the EU member states met frequently to discuss new rules for AI. We were active in Brussels and The Hague in order to call maximum attention to the interests of citizens.

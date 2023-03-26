@@ -11,6 +11,7 @@ button:
     url: "policy-makers-listened-to-our-concerns-about-the-use-of-ai"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 In 2022, the European Commission finally launched its long-awaited proposal for protecting children and young people from sexual abuse. Extremely important. But the measures proposed by European legislators will have hardly any effect and actually[ make people (including children) who want to communicate online even more vulnerable than they already were](https://www.bitsoffreedom.nl/2022/05/11/europese-commissie-wil-vertrouwelijkheid-op-internet-opheffen/). At the end of the year, the political battle really heated up. The European Parliament was still involved in negotiations concerning which working group was to preside. Simultaneously, member states were consulting in secret, in search of compromises and interpretation.

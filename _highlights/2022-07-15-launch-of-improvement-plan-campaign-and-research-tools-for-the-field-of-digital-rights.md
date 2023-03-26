@@ -11,6 +11,7 @@ button:
     url: "thanks-to-our-action-the-intelligence-and-security-services-deleted-the-data-of-millions"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 Technology can and must help us move ahead in the fight for an open and just society. But it is clear to us that it can only do so if we use technology that is in harmony with our own values and message, and only

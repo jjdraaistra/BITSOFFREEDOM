@@ -11,6 +11,7 @@ button:
     url: "the-successful-launch-of-our-podcast-makes-our-work-even-more-accessible"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 2022 saw the completion of EU legislative procedures concerning the Digital Services Act and the Digital Markets Act, resulting in a set of rules for protecting users of large online platforms from the power of these platforms and their toxic revenue models. Fantastic! Initial steps were also taken for implementing the rules in all EU member states. The

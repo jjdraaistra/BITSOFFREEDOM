@@ -11,6 +11,7 @@ button:
     url: "more-in-house-tech-research-to-expose-unlawful-practices"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 In 2022, we launched the four-part video series [*Data. Zo zit dat.*](https://www.bitsoffreedom.nl/data-zo-zit-dat/) in which rapper and Freedom Ambassador Fresku explores the ins and outs of data together with four young people. In an accessible manner, the four short films provide insight into the risks posed by algorithms and Big Tech. Interesting for young and old alike!

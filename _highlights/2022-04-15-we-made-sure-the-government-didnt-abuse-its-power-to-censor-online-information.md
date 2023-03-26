@@ -11,6 +11,7 @@ button:
     url: "yes-new-european-rules-place-limits-on-large-platforms"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 Even officials at the Ministry of Justice and Security have remarked that policy makers often react in an ad-hoc manner when it comes to information on the internet. And if you react in an ad-hoc manner, human rights can be jeopardized. Sometimes this involves the right to privacy, sometimes the right to freedom of expression. What is actually the role of the government with regard to online statements? Do the police have the right to request that information be made inaccessible, and if so,

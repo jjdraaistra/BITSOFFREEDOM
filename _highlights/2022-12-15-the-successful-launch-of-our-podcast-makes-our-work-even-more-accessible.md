@@ -11,6 +11,7 @@ button:
     url: "we-protected-the-right-to-communications-confidentiality"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 Following a successful Big Brother Awards podcast, we launched, in October, our twice-monthly [Bits of Freedom Podcast](https://www.bitsoffreedom.nl/podcast/afleveringen/): a podcast about everything that has to do with the internet -- on the one hand, to talk about our work in an accessible manner, and on the other, as a space for our wider-ranging interests in internet-related topics.

@@ -11,6 +11,7 @@ button:
     url: "dutch-ngos-investigate-the-impact-of-big-tech-on-civil-society"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 Digitization has inherent risks. And unfortunately, those risks are increasingly becoming a reality. With the help of algorithms, companies are making us addicted to their exploitative platforms, and the government seems to have blind faith in discriminatory data. It is our aim to uncover proof of such unlawful practices and use it in legal actions and awareness campaigns and as part of our efforts to influence policy.

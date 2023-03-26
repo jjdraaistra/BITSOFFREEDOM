@@ -11,6 +11,7 @@ button:
     url: "we-blocked-plans-for-a-third-intelligence-service"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 The intelligence and security services are permitted to collect extremely large quantities of data. But they are also required to discard these as soon as they are no longer needed. However, according to the regulator, that doesn't always happen. Their urgent advice to delete unlawfully stored data was ignored. And because the 'oversight' department of the Review Committee on the Intelligence and Security Services (CTIVD) has no binding powers, that was that.

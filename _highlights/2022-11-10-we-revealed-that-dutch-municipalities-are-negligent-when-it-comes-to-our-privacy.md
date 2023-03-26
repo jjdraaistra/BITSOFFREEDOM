@@ -11,6 +11,7 @@ button:
     url: "in-four-videos-rapper-fresku-explains-the-ins-and-outs-of-algorithms-and-platforms"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 Dutch municipalities are head-over-heals in love with data. *The more, the better*, the motto seems to be. Be it complex criminality, youth care or combatting fraud: there's no problem that can't be solved with a bit of computation work -- as long as we turn a blind eye to the fact that young people's fundamental rights are being violated and citizens are being used like test objects in municipal experiments.

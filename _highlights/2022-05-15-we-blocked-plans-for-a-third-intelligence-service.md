@@ -11,6 +11,7 @@ button:
     url: "we-made-sure-the-government-didnt-abuse-its-power-to-censor-online-information"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 In 2021, it came to light that the National Coordinator for Security and Counterterrorism (NCTV) had secretly spied on people in the Netherlands. But instead of a good rap on the knuckles, the NCTV was rewarded by the minister for justice and security with a bill to make such unlawful practices legal. This would have ushered-in the Netherlands' third  intelligence service.

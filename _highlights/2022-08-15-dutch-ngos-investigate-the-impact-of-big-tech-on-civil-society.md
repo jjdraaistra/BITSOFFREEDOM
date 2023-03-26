@@ -11,6 +11,7 @@ button:
     url: "launch-of-improvement-plan-campaign-and-research-tools-for-the-field-of-digital-rights"
   - name: "BACK TO OVERVIEW"
     url: "/"
+lang: en
 ---
 
 We joined forces with the Public Interest Litigation Project (PILP) to investigate how Big Tech limits the freedom of communication of NGOs in the Netherlands. In this way, we aim to help civil society understand
