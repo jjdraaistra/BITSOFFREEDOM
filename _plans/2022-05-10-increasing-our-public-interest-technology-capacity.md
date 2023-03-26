@@ -3,13 +3,13 @@ title: "Increasing our public-interest technology capacity"
 date: 2022-05-10 00:00:00
 description: To increase our capacity in the field of European digital rights, we have added two public interest technologists to our team, namely a researcher and a web developer.
 featured_image: "/assets/images/tracing-img.png"
-number: 1
+number: 15
 external_url:
   url: "#"
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-contributed-to-a-safer-contact-tracing-app-part2"
+    url: "investing-in-european-campaigns"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

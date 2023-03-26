@@ -3,13 +3,13 @@ title: "We will mobilize broad and divers resistance to harmful digitization"
 date: 2022-07-03 00:00:00
 description: Digitization is omnipresent.
 featured_image: "/assets/images/tracing-img.png"
-number: 1
+number: 13
 external_url:
   url: "#"
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-contributed-to-a-safer-contact-tracing-app-part2"
+    url: "more-room-for-young-talent"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

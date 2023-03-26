@@ -3,13 +3,13 @@ title: "Investing in European campaigns"
 date: 2022-04-10 00:00:00
 description: We're a small organization. But through smart use of lobbying and public pressure, we nevertheless get a lot done.
 featured_image: "/assets/images/tracing-img.png"
-number: 1
+number: 16
 external_url:
   url: "#"
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-contributed-to-a-safer-contact-tracing-app-part2"
+    url: "strengthening-advocacy-through-cooperation"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

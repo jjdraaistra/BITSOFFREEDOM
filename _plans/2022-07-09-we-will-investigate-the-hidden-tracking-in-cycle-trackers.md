@@ -3,13 +3,13 @@ title: "We will investigate the hidden tracking in cycle trackers"
 date: 2022-07-09 00:00:00
 description: Violations of privacy on menstruation apps are rampant.
 featured_image: "/assets/images/tracing-img.png"
-number: 1
+number: 7
 external_url:
   url: "#"
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-contributed-to-a-safer-contact-tracing-app-part2"
+    url: "we-will-call-for-stronger-oversight-of-the-intelligence-and-security-services"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

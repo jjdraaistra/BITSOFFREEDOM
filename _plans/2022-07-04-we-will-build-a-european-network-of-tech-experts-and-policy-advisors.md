@@ -3,13 +3,13 @@ title: "We will build a European network of tech-experts and policy advisors"
 date: 2022-07-04 00:00:00
 description: Digitization has inherent risks.
 featured_image: "/assets/images/tracing-img.png"
-number: 1
+number: 12
 external_url:
   url: "#"
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-contributed-to-a-safer-contact-tracing-app-part2"
+    url: "we-will-mobilize-broad-and-divers-resistance-to-harmful-digitization"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

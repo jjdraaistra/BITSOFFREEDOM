@@ -9,7 +9,7 @@ external_url:
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-will-stand-up-for-your-rights-and-liberties-in-the-event-of-new-covid-19-measures"
+    url: "we-will-protect-human-rights-in-the-ai-regulation"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

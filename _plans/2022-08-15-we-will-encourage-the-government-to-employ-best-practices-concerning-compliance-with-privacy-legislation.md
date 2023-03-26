@@ -9,7 +9,7 @@ external_url:
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-will-call-attention-to-the-irresponsible-use-of-data-and-algorithms-by-the-government-part2"
+    url: "we-will-shine-a-light-on-big-tech-on-government-websites"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

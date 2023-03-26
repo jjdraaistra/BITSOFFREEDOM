@@ -3,13 +3,13 @@ title: "We will fight against plans for a third intelligence service"
 date: 2022-07-07 00:00:00
 description: In 2021, it came to light that the National Coordinator for Security and Counterterrorism (NCTV) had secretly spied on people in the Netherlands.
 featured_image: "/assets/images/tracing-img.png"
-number: 1
+number: 9
 external_url:
   url: "#"
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-contributed-to-a-safer-contact-tracing-app-part2"
+    url: "we-will-make-sure-that-when-government-uses-its-powers-to-limit-freedom-of-expression-it-does-so-responsibly"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

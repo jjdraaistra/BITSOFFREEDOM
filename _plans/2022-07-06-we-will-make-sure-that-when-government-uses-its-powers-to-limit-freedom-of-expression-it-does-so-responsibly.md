@@ -3,13 +3,13 @@ title: "We will make sure that when government uses its powers to limit freedom 
 date: 2022-07-06 00:00:00
 description: The Ministry of Justice and Security develops guidelines for determining whether the government should remove information from the internet.
 featured_image: "/assets/images/tracing-img.png"
-number: 1
+number: 10
 external_url:
   url: "#"
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-contributed-to-a-safer-contact-tracing-app-part2"
+    url: "we-will-protect-the-right-to-communicate-confidentially-via-the-internet"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

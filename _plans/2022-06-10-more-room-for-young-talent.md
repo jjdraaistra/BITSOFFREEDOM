@@ -3,13 +3,13 @@ title: "More room for young talent"
 date: 2022-06-10 00:00:00
 description: We have adopted policy that encourages us to supervise a minimum of two trainees and one student per year
 featured_image: "/assets/images/tracing-img.png"
-number: 1
+number: 14
 external_url:
   url: "#"
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-contributed-to-a-safer-contact-tracing-app-part2"
+    url: "increasing-our-public-interest-technology-capacity"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

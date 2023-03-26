@@ -3,13 +3,13 @@ title: "We will use the Open Government Act WOO to make the source code of algor
 date: 2022-07-10 00:00:00
 description: How transparent should the government be about its use of algorithms
 featured_image: "/assets/images/tracing-img.png"
-number: 1
+number: 6
 external_url:
   url: "#"
   name: "EXTERNAL URL"
 button:
   - name: "NEXT PLAN"
-    url: "we-contributed-to-a-safer-contact-tracing-app-part2"
+    url: "we-will-investigate-the-hidden-tracking-in-cycle-trackers"
   - name: "BACK TO OVERVIEW"
     url: "/"
 lang: en

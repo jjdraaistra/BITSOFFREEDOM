@@ -3,7 +3,7 @@ title: "Strengthening advocacy through cooperation"
 date: 2022-03-10 00:00:00
 description: In the past year, we took part in several cooperative efforts, with an increasingly diverse range of partners. Together with the Public Interest Litigation Project, we organized a number of workshops for organizations fighting against racism and for the climate, migrants,
 featured_image: "/assets/images/tracing-img.png"
-number: 1
+number: 17
 external_url:
   url: "#"
   name: "EXTERNAL URL"
