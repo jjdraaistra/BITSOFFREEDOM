@@ -1,7 +1,7 @@
 ---
-title: "We made sure the government didnt abuse its power to censor online information"
+title: "We zorgden dat overheid haar macht niet misbruikt om online informatie te censureren"
 date: 2022-04-15 00:00:00
-description: The statutory objective of Bits of Freedom is to defend and promote digital civil rights in the information society, including the fundamental right to privacy and freedom of communication, and all related rights, in the broadest sense of the word.
+description: Ook de ambtenaren van het Ministerie van Justitie en Veiligheid hebben opgemerkt dat beleidsmakers vaak nogal ad-hoc reageren als het gaat over informatie op het internet.
 featured_image: "/assets/images/tracing-img.png"
 external_url:
   url: "#"
@@ -14,9 +14,8 @@ button:
 lang: nl
 ---
 
-Even officials at the Ministry of Justice and Security have remarked that policy makers often react in an ad-hoc manner when it comes to information on the internet. And if you react in an ad-hoc manner, human rights can be jeopardized. Sometimes this involves the right to privacy, sometimes the right to freedom of expression. What is actually the role of the government with regard to online statements? Do the police have the right to request that information be made inaccessible, and if so,
-under what conditions? And what is the role of mayors in maintaining public order? The Ministry wants to develop a framework that provides answers to such questions.
+Ook de ambtenaren van het Ministerie van Justitie en Veiligheid hebben opgemerkt dat beleidsmakers vaak nogal ad-hoc reageren als het gaat over informatie op het internet. En door die ad-hoc reactie komen mensenrechten onder druk te staan. Soms het recht op privacy, soms het recht op uitingsvrijheid. Wat is de rol van de overheid met betrekking tot online uitingen eigenlijk? Mag de politie vragen om informatie ontoegankelijk te maken, en zo ja, onder welke voorwaarden? En wat is de rol van de burgemeester bij het handhaven van de openbare orde? Het ministerie wil een framework ontwikkelen dat antwoord moet geven op zulke vragen.
 
-This, of course, is our specialty. Which is why we made sure to get involved in the project in its early stages. Our preparatory work is ensuring that, when the project actually gets going in 2023, we can play a substantive role -- that the minister doesn't just ask us for feedback, but really does something with our advice, that she considers the perspectives of all who are affected by the policy and that all interested parties are heard.
+Dat is natuurlijk ons specialisme. Daarom hebben we er voor gezorgd dat we al in een heel vroeg stadium aan tafel zitten. Ons voorbereidende werk zorgt ervoor dat, als in 2023 het project bij het ministerie écht van start gaat, wij goed betrokken worden. Dat de minister ons niet alleen om inbreng vraagt, maar ook echt iets met onze adviezen doet. En dat ze het perspectief meeneemt van iedereen die geraakt wordt door dit beleid. Dat alle betrokkenen worden gehoord.
 
-This is essential, as only in this way can policy be crafted that protects human rights and generates broad-based support for the resulting governmental measures.
+Dat is belangrijk, want alleen daardoor ontstaat er beleid waarin mensenrechten beschermd worden, en waarbij breed draagvlak is voor de maatregelen die de overheid kiest te nemen.

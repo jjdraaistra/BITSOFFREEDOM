@@ -1,7 +1,7 @@
 ---
-title: "Yes New European rules place limits on large platforms"
+title: "Yes Nieuwe Europese regels leggen grote platformen aan banden "
 date: 2023-01-15 00:00:00
-description: 2022 saw the completion of EU legislative procedures concerning the Digital Services Act and the Digital Markets Act, resulting in a set of rules for protecting users of large online platforms from the power of these platforms and their toxic revenue models.
+description: In 2022 werden de Europese wetgevingstrajecten van de Digital Services Act en de Digital Markets Act afgerond.
 featured_image: "/assets/images/tracing-img.png"
 external_url:
   url: "#"
@@ -14,12 +14,10 @@ button:
 lang: nl
 ---
 
-2022 saw the completion of EU legislative procedures concerning the Digital Services Act and the Digital Markets Act, resulting in a set of rules for protecting users of large online platforms from the power of these platforms and their toxic revenue models. Fantastic! Initial steps were also taken for implementing the rules in all EU member states. The
-first rules will come into force in 2023, and both acts will become fully enforceable in 2024.
+In 2022 werden de Europese wetgevingstrajecten van de Digital Services Act en de Digital Markets Act afgerond. Daarmee ligt er nu een set regels om gebruikers van grote online platformen te beschermen tegen de macht van die platformen en hun giftige verdienmodel. Super tof! Ook werden de eerste stappen genomen in de implementatie van die regels in alle Europese lidstaten. In 2023 gaan de eerste regels van kracht, en in 2024 zijn beide wetten geheel afdwingbaar.
 
-Due to lobbying by Bits of Freedom and others regarding the [Digital Services](https://www.bitsoffreedom.nl/2022/09/27/8-nieuwe-regels-die-jou-beter-gaan-beschermen-tegen-online-platformen/)and [Digital Markets Act](https://www.bitsoffreedom.nl/2022/11/10/7-nieuwe-regels-die-de-marktmacht-van-grote-platformen-moeten-tegen-gaan/)s, the resulting legislation was substantially improved in the area of digital rights. For example, a prohibition on advertising targeted at
-minors was included; further: chat services must be interoperable and, users of Big Tech will soon be able to shape their online environments much more by modifying recommendation systems and app store data. Hooray!
+Naar aanleiding van (onder andere) ons lobbywerk op de [Digital Services Act](https://www.bitsoffreedom.nl/2022/09/27/8-nieuwe-regels-die-jou-beter-gaan-beschermen-tegen-online-platformen/) en [Digital Markets Act](https://www.bitsoffreedom.nl/2022/11/10/7-nieuwe-regels-die-de-marktmacht-van-grote-platformen-moeten-tegen-gaan/), zijn de uiteindelijke wetten veel beter geworden op het gebied van digitale rechten. Zo is er een verbod op targeted advertising voor minderjarigen opgenomen, moeten chatdiensten interoperabel zijn en hebben gebruikers van Big Tech straks veel meer invloed op hun online omgeving door aanbevelingssystemen en app stores aan te passen. Hoera!
 
-And lobbying was not the only thing we did last year. We also made these topics more accessible, through a range of awareness projects. We launched a newsletter about online platforms, issued short films explaining platform issues in an accessible manner and reached out to a number of social movements to discuss their use of Big Tech.
+Lobbyen was niet het enige dat we het afgelopen jaar deden. We maakten deze onderwerpen ook toegankelijker door verschillende bewustwordingsprojecten. We startten een nieuwsbrief over online platformen, lanceerden filmpjes waarin platformproblematiek op een toegankelijke wijze wordt uitgelegd en we gingen in gesprek met verschillende maatschappelijke bewegingen over hun gebruik van Big Tech.
 
-Little by little, more and more attention is being paid to the negative effects resulting from the dominant positions of large online platforms. Increasingly, such aspects as disinformation, content harmful to minors and the dangers of addiction are becoming topics of discussion, both in national politics and in the media. In place of social media being perceived in heroic terms, the risks resulting from their revenue models are now being recognized and combatted. Armed with the new legislation, we look forward to continuing the fight in the coming years.
+Stukje bij beetje komt er steeds meer aandacht voor de negatieve gevolgen die de dominantie van grote online platformen met zich meebrengt. Zaken als desinformatie, schadelijke content voor minderjarigen en het gevaar voor verslaving zijn [steeds vaker onderwerp van gesprek zowel in Den Haag als in de media](https://fd.nl/opinie/1458713/een-verbod-op-tiktok-lost-helemaal-niets-op). In plaats van het ontvangen van sociale media als helden, worden de risico's die hun verdienmodellen met zich meebrengen nu erkend en tegengegaan. Met de nieuwe wetten in de achterzak, kijken we er naar uit de strijd de komende jaren voort te zetten.

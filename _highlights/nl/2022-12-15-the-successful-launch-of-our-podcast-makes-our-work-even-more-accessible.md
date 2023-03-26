@@ -1,7 +1,7 @@
 ---
-title: "The successful launch of our podcast makes our work even more accessible"
+title: "Een succesvolle lancering van onze podcast maakt ons werk nog toegankelijker"
 date: 2022-12-15 00:00:00
-description: Following a successful Big Brother Awards podcast, we launched, in October
+description: Na een succesvolle Big Brother Awards podcast, lanceerden we in oktober onze tweewekelijkse
 featured_image: "/assets/images/tracing-img.png"
 external_url:
   url: "#"
@@ -14,9 +14,8 @@ button:
 lang: nl
 ---
 
-Following a successful Big Brother Awards podcast, we launched, in October, our twice-monthly [Bits of Freedom Podcast](https://www.bitsoffreedom.nl/podcast/afleveringen/): a podcast about everything that has to do with the internet -- on the one hand, to talk about our work in an accessible manner, and on the other, as a space for our wider-ranging interests in internet-related topics.
+Na een succesvolle Big Brother Awards podcast, lanceerden we in oktober onze tweewekelijkse [Bits of Freedom Podcast](https://www.bitsoffreedom.nl/podcast/afleveringen/). Een podcast over alles wat met het internet te maken heeft. Enerzijds om ons werk op een toegankelijke manier te bespreken, anderzijds om onze bredere interesse in internetgerelateerde onderwerpen aan bod te laten komen.
 
-In the podcast, host Inge and her regular guest, Evelyn, discuss a wide range of topics with BOF policy makers. Each episode also features a phone conversation with someone with a special perspective on the internet. In 2022, we talked to artists Julia Janssen, Dries Depoorter and Eva Line de Boer about their work, with tech-expert Maarten den Braber about Mastodon and with Representative Lisa van Ginneken (D66[]{#anchor-3}) about her departure from Twitter; Robin Pocornie discussed the complaint she submitted to the Netherlands Committee for Human Rights regarding discriminatory proctoring software and Gerbrig
-Klos brought us up to date on Amnesty International's efforts to protect the right to demonstrate.
+In de podcast gaan host Inge en vaste tafelgast Evelyn in gesprek met onze beleidsmedewerkers over uiteenlopende onderwerpen. Ook wordt er elke aflevering ingebeld met iemand  met een bijzondere kijk op het internet. In 2022 belden we met kunstenaars Julia Janssen, Dries Depoorter en Eva Line de Boer over hun werk, met techneut Maarten den Braber over Mastodon, met D66-kamerlid Lisa van Ginneken over haar vertrek van Twitter, Robin Pocornie vertelde over haar klacht over discriminerende proctoringsoftware bij het Nederlands Comité voor de Rechten van de Mens en Gerbrig Klos praatte ons bij over het werk van Amnesty om het demonstratierecht te beschermen.
 
-The podcast was well-received and each of the (seven) episodes was listened to ca. 1000 times. For each episode, a transcription was prepared by one of our volunteers.
+De podcast werd goed ontvangen en per aflevering (we maakten er zeven) ongeveer 1000 keer beluisterd. Elke aflevering werd getranscribeerd door een van onze vrijwilligers.

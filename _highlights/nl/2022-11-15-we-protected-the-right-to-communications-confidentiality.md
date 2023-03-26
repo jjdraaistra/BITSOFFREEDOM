@@ -1,7 +1,7 @@
 ---
-title: "We protected the right to communications confidentiality"
+title: "We beschermden het recht om vertrouwelijk te communiceren"
 date: 2022-11-15 00:00:00
-description: The statutory objective of Bits of Freedom is to defend and promote digital civil rights in the information society, including the fundamental right to privacy and freedom of communication, and all related rights, in the broadest sense of the word.
+description: De Europese Commissie lanceerde dit jaar eindelijk haar langverwachte voorstel waarmee kinderen en jongeren beschermd moeten gaan worden tegen seksueel misbruik. Super belangrijk. Maar de maatregelen die de Europese wetgever voorstelt zullen
 featured_image: "/assets/images/tracing-img.png"
 external_url:
   url: "#"
@@ -14,12 +14,8 @@ button:
 lang: nl
 ---
 
-In 2022, the European Commission finally launched its long-awaited proposal for protecting children and young people from sexual abuse. Extremely important. But the measures proposed by European legislators will have hardly any effect and actually[ make people (including children) who want to communicate online even more vulnerable than they already were](https://www.bitsoffreedom.nl/2022/05/11/europese-commissie-wil-vertrouwelijkheid-op-internet-opheffen/). At the end of the year, the political battle really heated up. The European Parliament was still involved in negotiations concerning which working group was to preside. Simultaneously, member states were consulting in secret, in search of compromises and interpretation.
+De Europese Commissie lanceerde dit jaar eindelijk haar langverwachte voorstel waarmee kinderen en jongeren beschermd moeten gaan worden tegen seksueel misbruik. Super belangrijk. Maar de maatregelen die de Europese wetgever voorstelt zullen [nauwelijks effectief zijn](https://www.bitsoffreedom.nl/2022/10/17/zedenpolitie-nu-al-overbelast-en-de-wetgever-wil-dat-alleen-maar-erger-maken/). Sterker nog: [ze maken mensen -waaronder kinderen- die online willen communiceren juist kwetsbaarder](https://www.bitsoffreedom.nl/2022/05/11/europese-commissie-wil-vertrouwelijkheid-op-internet-opheffen/). Aan het einde van het jaar barste de politieke strijd echt los. Het Europees Parlement was nog altijd aan het onderhandelen over welke werkgroep de leiding zou krijgen. Tegelijkertijd waren de lidstaten in geheime overleggen op zoek naar duiding en compromissen.
 
-To make sure that policy makers didn't overlook fundamental human rights, we were continually in Brussels. We spoke with the
-representatives of the Dutch government and with numerous MEPs. It's a fact that we achieve more when we join forces with our European colleagues, and for that reason, we coordinated our efforts, our strategy and our message with our European sister organizations.
+Om er voor te zorgen dat beleidsmakers fundamentele mensenrechten niet over het hoofd zou zien, waren we veel in Brussel. We spraken met de vertegenwoordiging van de Nederlandse regering en met tal van Europese parlementsleden. We bereiken meer als we samen optrekken met onze Europese collega's. Daarom stemden we ons werk, onze strategie en [ons verhaal](https://www.bitsoffreedom.nl/2022/06/09/oproep-aan-brussel-om-kinderen-te-beschermen-is-betere-wetgeving-nodig/) af met onze Europese zusterorganisaties. En omdat het standpunt van Nederland wordt bepaald in Den Haag oefenden we ook daar indirect invloed uit. Bijvoorbeeld door te spreken met ambtenaren van het Ministerie van Justitie en Veiligheid.
 
-Because the Netherlands' position is determined in The Hague, we also exerted indirect influence there, e.g., by talking to officials in the Ministry of Justice and Security.
-
-To maximize the pressure on the cabinet, we invested much energy into ensuring that the legislative proposal also got onto the agenda of the House of Representatives. Which worked. The proposed legislation was on the agenda several times, frequently with *our* critical questions. By a large majority, a motion was supported in the House calling on the
-cabinet not to accept any European legislative proposal making end-to-end encryption impossible. The rest of the year, we regularly helped House members with the formulation of follow-up questions, in order to compel positive interpretation of the motion.
+Om de druk op het kabinet zoveel mogelijk te verhogen, probeerden we het voorstel ook bij de Tweede Kamer op de agenda te krijgen. En met succes. Het wetsvoorstel stond meermaals op de agenda, regelmatig voorzien van onze kritische vragen. En de Tweede Kamer steunde in grote meerderheid een motie die het kabinet oproept geen enkel Europees wetsvoorstel aan te nemen dat end-to-end encryptie onmogelijk maakt. De rest van het jaar hebben we regelmatig leden van de Tweede Kamer geholpen met het formuleren van vervolgvragen om een positieve uitleg van de motie af te dwingen.

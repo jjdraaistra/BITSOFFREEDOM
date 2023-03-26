@@ -1,7 +1,7 @@
 ---
-title: "Policy makers listened to our concerns about the use of AI"
+title: "Beleidsmakers gaven gehoor aan onze zorgen over het gebruik van AI"
 date: 2022-11-11 00:00:00
-description: In 2022, the European Parliament and the governments of the EU member states met frequently to discuss new rules for AI. We were active in Brussels and The Hague in order to call maximum attention to the interests of citizens.
+description: Het Europees Parlement en de regeringen van de Europese lidstaten vergaderden in 2022 veelvuldig over nieuwe regels voor AI. Wij waren in Brussel en Den Haag actief om de belangen van burgers zo goed mogelijk voor het voetlicht te brengen.
 featured_image: "/assets/images/tracing-img.png"
 external_url:
   url: "#"
@@ -14,15 +14,10 @@ button:
 lang: nl
 ---
 
-In 2022, the European Parliament and the governments of the EU member states met frequently to discuss new rules for AI. We were active in Brussels and The Hague in order to call maximum attention to the interests of citizens.
+Het Europees Parlement en de regeringen van de Europese lidstaten vergaderden in 2022 veelvuldig over nieuwe regels voor AI. Wij waren in Brussel en Den Haag actief om de belangen van burgers zo goed mogelijk voor het voetlicht te brengen.
 
-We worked out our positions in coordination with our European sister organizations and wrote several amendments to the current proposal. With these as a basis, we lobbied dozens of relevant officials, including AI regulation co-rapporteur Brando Benifei. We were also present as guests of the European Parliament to explain our position on biometric
-surveillance in the public space.
+We werkten onze standpunten uit samen met onze Europese zusterorganisaties en schreven vele wijzigingen op het huidige voorstel. Op basis van deze stukken hebben we tientallen lobbygesprekken gevoerd, waaronder met de co-rapporteur van de AI-verordening, Brando Benifei. Ook waren we te gast in het [Europees Parlement](https://www.bitsoffreedom.nl/2022/11/25/a-limited-ban-on-biometric-surveillance-undermines-its-own-potential/) om ons standpunt op biometrische surveillance in de publieke ruimte toe te lichten.
 
-In The Hague, we had meetings at the Senate, brought our message to the House of Representatives and, in order to influence the positions of other stakeholders, also spoke at several relevant conferences, including the Fairness in Algorithmic Decision Making Conference.
+We spraken in de [Eerste Kamer](https://www.bitsoffreedom.nl/2022/02/08/de-discriminatie-die-in-data-schuilt/), informeerden de [Tweede Kamer](https://www.bitsoffreedom.nl/2022/11/17/mensenrechten-moeten-beter-beschermd-worden-in-de-ai-verordening/) en spraken daarnaast op verschillende bijeenkomsten om ook de positie van andere stakeholders te informeren, waaronder op de conferentie "Fairness in Algorithmic Decision Making".
 
-All of these meetings and appearances bore fruit. Increasingly,
-legislation is reflecting greater attention to the importance of rights
-of transparency, and more or stricter prohibitions on the use of AI,
-including predictive policing, are being enacted. Exactly what we've
-been fighting for!
+Al deze gesprekken wierpen hun vruchten af. Er is in de wet steeds meer aandacht voor transparantierechten en het invoeren van meer of strengere verboden AI-toepassingen, waaronder predictive policing. Precies waar wij ons hard voor hebben gemaakt!

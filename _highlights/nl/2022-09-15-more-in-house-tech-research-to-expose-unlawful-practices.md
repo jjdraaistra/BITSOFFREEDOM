@@ -1,7 +1,7 @@
 ---
-title: "More in-house tech-research to expose unlawful practices"
+title: "Meer eigen technisch onderzoek om wanpraktijken bloot te leggen"
 date: 2022-09-15 00:00:00
-description: Digitization has inherent risks. And unfortunately, those risks are increasingly becoming a reality.
+description: Digitalisering brengt risico's met zich  mee.
 featured_image: "/assets/images/tracing-img.png"
 external_url:
   url: "#"
@@ -14,6 +14,6 @@ button:
 lang: nl
 ---
 
-Digitization has inherent risks. And unfortunately, those risks are increasingly becoming a reality. With the help of algorithms, companies are making us addicted to their exploitative platforms, and the government seems to have blind faith in discriminatory data. It is our aim to uncover proof of such unlawful practices and use it in legal actions and awareness campaigns and as part of our efforts to influence policy.
+Digitalisering brengt risico's met zich  mee. Helaas zien we die risico's steeds vaker in de praktijk werkelijkheid worden. Bedrijven maken ons met behulp van algoritmen verslaafd aan hun exploitatieve platformen, en de overheid vaart blind op discriminerende data. Wij willen het bewijs van deze wanpraktijken boven tafel krijgen. Om te gebruiken in onze beleidsbeïnvloeding, bewustwordingscampagnes en rechtszaken.
 
-It was for this reason that, in 2022, we added a tech-researcher to our team. He immersed himself in the world of policy, created an investigative infrastructure (including tooling for Android app traffic intelligence) and began building a European network of tech-experts, lawyers and campaigners. We look forward with gusto to what this new role can mean for our European activities!
+In 2022 namen we daarom een technisch onderzoeker aan. Hij dompelde zich onder in de wereld van beleid, zette onderzoeksinfrastructuur op (waaronder tooling om mee te kijken met het internetverkeer van Android apps) en startte aan het bouwen van een Europees netwerk van techneuten, juristen en campaigners. We kijken met gulzigheid uit naar wat deze nieuwe rol voor ons Europese veld kan betekenen.

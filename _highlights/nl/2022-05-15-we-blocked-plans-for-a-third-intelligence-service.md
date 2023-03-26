@@ -1,7 +1,7 @@
 ---
-title: "We blocked plans for a third intelligence service"
+title: "Verbeterplan campagne- en onderzoektools voor het digitale rechtenveld van start"
 date: 2022-05-15 00:00:00
-description: In 2021, it came to light that the National Coordinator for Security and Counterterrorism (NCTV) had secretly spied on people in the Netherlands. But instead of a good rap on the knuckles, the NCTV was rewarded by the minister for justice and security with a bill to make such unlawful practices legal.
+description: Technologie kan en moet onze strijd voor een open en rechtvaardige samenleving vooruithelpen.
 featured_image: "/assets/images/tracing-img.png"
 external_url:
   url: "#"
@@ -14,9 +14,8 @@ button:
 lang: nl
 ---
 
-In 2021, it came to light that the National Coordinator for Security and Counterterrorism (NCTV) had secretly spied on people in the Netherlands. But instead of a good rap on the knuckles, the NCTV was rewarded by the minister for justice and security with a bill to make such unlawful practices legal. This would have ushered-in the Netherlands' third  intelligence service.
+Technologie kan en moet onze strijd voor een open en rechtvaardige samenleving vooruithelpen. We zijn ervan overtuigd dat het dit alleen kan doen wanneer we technologie gebruiken die aansluit bij onze waarden en boodschap, en wanneer ons gebruik ervan vooruitstrevend, inspirerend en leuk is. [Wat ons betreft moeten digitale burgerrechtenorganisatie in Europa hierop niet alleen het voortouw nemen, maar de standaard zetten.](eu-tooling.bitsoffreedom.nl/) Campagnetools die privacyvriendelijk zijn en een groot publiek mobiliseren. Donatiesoftware die donateurs in hun waarde laat en bijdraagt aan de financiële stabiliteit van NGO's.
 
-We threw everything we had at preventing this from happening. For example, in 2022, we played an important role in the organization of a roundtable in the House of Representatives. In addition to ourselves, the participants included, among others, Amnesty International Nederland, the Dutch Data Protection Authority, the Review Committee on the Intelligence and Security Services (CTIVD), the General Intelligence and Security Service (AIVD) and Prof. Frederik Zuiderveen Borgesius.
-There was criticism from every quarter (except from the NCTV itself). House members took due notice.
+Daarom hebben we het afgelopen jaar in kaart gebracht hoe Europese NGO's momenteel digitale tools gebruiken. We richten ons daarbij op drie kerngebieden: tooling voor externe communicatie (campagnes, mobilisatie, en het bereiken van nieuw publiek); tooling voor onderzoek en het verzamelen van bewijs; en tooling om onze organisaties en werkplekken te runnen. Ook keken we naar welke behoeftes er zijn en wat wij kunnen doen om in het nieuwe jaar flinke stappen vooruit te zetten.
 
-Since the roundtable, the bill has, as far as we're aware, been completely dormant. Until it is withdrawn, or is revisited in order to define the NCTV's coordinating tasks more clearly (nothing more than that), we remain vigilant.
+Onze eerste tussenrapportage stipt een groot aantal verbeterpunten aan en werd zeer goed ontvangen. Samenvattend is het duidelijk dat we niet optimaal gebruik maken van technologie om onze doelen te bereiken. In het bijzonder lopen we kansen mis om de toegenomen aandacht voor ons werk om te zetten in engagement met onze organisaties en doelstellingen. Werk aan de winkel dus!

@@ -1,7 +1,7 @@
 ---
-title: "Launch of improvement plan campaign and research tools for the field of digital rights"
+title: "De geheime diensten verwijderden gegevens van miljoenen mensen dankzij onze actie"
 date: 2022-07-15 00:00:00
-description: Technology can and must help us move ahead in the fight for an open and just society.
+description: De geheime diensten mogen heel veel gegevens verzamelen. Die moeten ze wel weggooien zodra ze ze niet meer nodig hebben. Dat gebeurt niet altijd, constateerde de toezichthouder.
 featured_image: "/assets/images/tracing-img.png"
 external_url:
   url: "#"
@@ -14,9 +14,8 @@ button:
 lang: nl
 ---
 
-Technology can and must help us move ahead in the fight for an open and just society. But it is clear to us that it can only do so if we use technology that is in harmony with our own values and message, and only
-if our use of it is progressive, inspiring and rewarding. As we see it, European digital civil liberties organizations[ must not only take the lead in this, but set the standards as well.](../../../../../Users/nick/Desktop/Evelyn/eu-tooling.bitsoffreedom.nl) Campaign tools that are privacy friendly and mobilize large numbers. Donation software that respects the dignity of donors and contributes to the financial stability of NGOs.
+De geheime diensten mogen heel veel gegevens verzamelen. Die moeten ze wel weggooien zodra ze ze niet meer nodig hebben. Dat gebeurt niet altijd, constateerde de toezichthouder. Het dringend advies van de toezichthouder om onterecht bewaarde gegevens te verwijderen, werd genegeerd. En omdat de afdeling "toezicht" van de CTIVD geen bindende bevoegdheden heeft, was de zaak daarmee klaar.
 
-It was for this reason that, in the past year, we analyzed how European NGOs presently utilize digital tools. We focused on three core areas: tooling for external communication (campaigns, mobilization and reaching more people); tooling for research and collecting evidence and tooling for running our workplaces and organizations. We also looked at what is needed and what we can do in the new year to make substantial progress.
+Maar toch ook weer niet. Afdeling "klacht" van de CTIVD heeft namelijk wel bindende bevoegdheden, maar mag deze pas inzetten als iemand bij ze klaagt. (Geen grap.) [Dat deden we.](https://www.bitsoffreedom.nl/2022/05/31/wij-dienen-namens-miljoenen-burgers-een-klacht-in-tegen-de-geheime-diensten/) En met succes. De toezichthouder oordeelde dat we gelijk hadden en droeg de geheime diensten op de gegevens te verwijderen. Deze keer konden de diensten niet weigeren. Daarmee waren in een klap [miljoenen burgers](https://www.bitsoffreedom.nl/2022/06/15/hoera-we-hebben-gegevens-van-miljoenen-mensen-uit-de-klauwen-van-de-geheime-diensten-bevrijd/) beter beschermd. Ook gaven we een belangrijk signaal af over de [(in)effectiviteit van het toezichtsstelsel](https://www.bitsoffreedom.nl/2022/04/19/myth-busters-nederland-heeft-erg-goed-toezicht-op-de-geheime-diensten/) (dat moet sterker) en lieten we zien dat de diensten niet onaantastbaar zijn.
 
-Our first interim report, which touched on numerous points for improvement, was received very positively. To sum up, it is clear that we are not making optimum use of technology to achieve our objectives, and that, as a result, opportunities are being missed for converting increased interest in our work into greater engagement vis-à-vis our organizations and their goals. So there's much to be done!
+Onze klacht werd veelvuldig aangehaald in de Tweede Kamer en de media. Daarmee hebben we de schijnwerpers gezet op wat zich normaal in de schaduw afspeelt. Heel belangrijk, zeker nu de grenzen van wat de diensten mogen opnieuw ter discussie staan.

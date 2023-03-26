@@ -1,7 +1,7 @@
 ---
-title: "Thanks to our action the intelligence and security services deleted the data of millions"
+title: "We blokkeerden plannen voor een derde inlichtingendienst"
 date: 2022-06-15 00:00:00
-description: The intelligence and security services are permitted to collect extremely large quantities of data. But they are also required to discard these as soon as they are no longer needed. However, according to the regulator, that doesn't always happen.
+description: In 2021 werd bekend dat de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) in het geheim mensen in Nederland bespioneerde.
 featured_image: "/assets/images/tracing-img.png"
 external_url:
   url: "#"
@@ -14,8 +14,9 @@ button:
 lang: nl
 ---
 
-The intelligence and security services are permitted to collect extremely large quantities of data. But they are also required to discard these as soon as they are no longer needed. However, according to the regulator, that doesn't always happen. Their urgent advice to delete unlawfully stored data was ignored. And because the 'oversight' department of the Review Committee on the Intelligence and Security Services (CTIVD) has no binding powers, that was that.
 
-But not quite. The 'complaints' department of the CTIVD does have binding powers, but may only use them if someone lodges a complaint with them (no joke!). So that's what we did -- and with success. The CTIVD ruled that we were right and ordered the intelligence and security services to delete the data in question. This time, the services had to comply. As a result, millions of citizens were suddenly better protected. Our action also sent an important signal about the (in)effectiveness of the regulatory system (which is in need of strengthening) and demonstrated that the intelligence and security services are not above the law.
+In 2021 werd bekend dat de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) in het geheim mensen in Nederland bespioneerde. In plaats van een flinke tik op de vingers, werd de NCTV door de Minister voor Justitie en Veiligheid beloond met een wetsvoorstel waarmee de wanpraktijken legaal zouden worden. Daarmee zou de derde inlichtingendienst in Nederland een feit zijn.
 
-Our complaint was mentioned frequently in both the House of Representatives and the media. We thus succeeded in shining a light on something that normally goes on in the shadows -- particularly important, now that the limits to what the intelligence and security services may and may not do are again a topic of debate.
+We zetten alles op alles om te voorkomen dat dat gebeurt. Afgelopen jaar speelden we bijvoorbeeld een belangrijke rol bij het organiseren van een ronde tafel in de [Tweede Kamer](https://www.bitsoffreedom.nl/2022/03/31/wij-lieten-ons-horen-tegen-de-nctv-als-derde-inlichtingendienst/). Naast onszelf, spraken onder andere Amnesty International Nederland, de Autoriteit Persoonsgegevens, de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten, de AIVD en hoogleraar Frederik Zuiderveen Borgesius. Op de NCTV zelf na, klonk uit alle hoeken kritiek. Dit bleef ook bij Kamerleden niet onopgemerkt.
+
+Sinde de ronde tafel ligt het wetsvoorstel, voor zover wij weten, stil. Tot het voorstel van tafel is, of is aangegrepen om de coördinerende taken van de NCTV helderder te beschrijven -en niets meer dan dat-, blijven wij alert.
