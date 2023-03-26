@@ -894,9 +894,3 @@ header {
 .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {transform: translateY(8px) rotate(-45deg);}
 .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {border-color: transparent;}
 /* **** End toggler **** */
-
-@media (min-width: 1401px) and (max-width: 1600px)
-.tab_contain {
-    width: 49vw;
-    margin: 0 auto;
-}
